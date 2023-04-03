@@ -1,0 +1,892 @@
+ROW,CLIENT_ID,ABSTINENCE,SES,NAME,SEX,AGE,RACE_ETHNICITY,SIB_SP,PAR_CHI,CASE_ID, MONTHLY_INCOME ,MEDICATION,LOS
+106,106,0,3,"Mionoff, Mr. Stoytcho",1,28,"White, NH",0,0,349207,0,Methadone,629
+467,467,0,2,"Campbell, Mr. William",1,NA,Hispanic,0,0,239853,616,Methadone,623
+344,344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",1,25,"White, NH",0,0,244361,0,Methadone,607
+645,645,1,3,"Baclini, Miss. Eugenie",0,36,Hispanic,2,1,2666,1102.68,Methadone,605
+307,307,1,1,"Fleming, Miss. Margaret",0,NA,Hispanic,0,0,17421,0,Methadone,602
+181,181,0,3,"Sage, Miss. Constance Gladys",0,NA,"White, NH",8,2,CA. 2343,0,Methadone,590
+117,117,0,3,"Connors, Mr. Patrick",1,19,Hispanic,0,0,370369,0,Methadone,585
+842,842,0,2,"Mudd, Mr. Thomas Charles",1,72,Hispanic,0,0,S.O./P.P. 3,3213.77,Methadone,578
+223,223,0,3,"Green, Mr. George Henry",1,51,Hispanic,0,0,21440,0,Methadone,566
+715,715,0,2,"Greenberg, Mr. Samuel",1,52,"White, NH",0,0,250647,1539.23,Methadone,550
+317,317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",0,24,"Black or African American, NH",1,0,244367,0,Methadone,549
+885,885,0,3,"Sutehall, Mr. Henry Jr",1,25,"White, NH",0,0,SOTON/OQ 392076,6828.1,Methadone,541
+880,880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",0,56,Hispanic,0,1,11767,6417.85,Methadone,531
+690,690,1,1,"Madill, Miss. Georgette Alexandra",0,31,"Black or African American, NH",0,1,24160,1511.3,Methadone,530
+267,267,0,3,"Panula, Mr. Ernesti Arvid",1,59,Hispanic,4,1,3101295,0,Methadone,530
+392,392,1,3,"Jansson, Mr. Carl Olof",1,21,"White, NH",0,0,350034,0,Methadone,528
+230,230,0,3,"Lefebre, Miss. Mathilde",0,NA,"White, NH",3,1,4133,0,Methadone,521
+671,671,1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",0,40,"White, NH",1,1,29750,1490.08,Methadone,521
+28,28,0,1,"Fortune, Mr. Charles Alexander",1,19,Hispanic,3,2,19950,0,Methadone,520
+693,693,1,3,"Lam, Mr. Ali",1,NA,"White, NH",0,0,1601,1514.65,Burpenorphine,516
+332,332,0,1,"Partner, Mr. Austen",1,45.5,"White, NH",0,0,113043,0,Methadone,512
+505,505,1,1,"Maioni, Miss. Roberta",0,19,Hispanic,0,0,110152,969.4,Methadone,508
+666,666,0,2,"Hickman, Mr. Lewis",1,32,"White, NH",2,0,S.O.C. 14879,1484.49,Methadone,502
+285,285,0,1,"Smith, Mr. Richard William",1,NA,Hispanic,0,0,113056,0,Methadone,499
+134,134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",0,28,Hispanic,1,0,228414,0,Methadone,496
+838,838,0,3,"Sirota, Mr. Maurice",1,NA,"Black or African American, NH",0,0,392092,3146.77,Methadone,491
+616,616,1,2,"Herman, Miss. Alice",0,24,Hispanic,1,2,220845,1076.58,Methadone,488
+475,475,0,3,"Strandberg, Miss. Ida Sofia",0,22,"Asian, NH",0,0,7553,690.4,Methadone,487
+202,202,0,3,"Sage, Mr. Frederick",1,NA,"White, NH",8,2,CA. 2343,0,Methadone,486
+402,402,0,3,"Adams, Mr. John",1,26,"Black or African American, NH",0,0,341826,0,Methadone,485
+629,629,0,3,"Bostandyeff, Mr. Guentcho",1,26,Hispanic,0,0,349224,1088.28,Methadone,484
+86,86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",0,33,"White, NH",3,0,3101278,0,Methadone,484
+279,279,0,3,"Rice, Master. Eric",1,42,"White, NH",4,1,382652,0,Methadone,481
+39,39,0,3,"Vander Planke, Miss. Augusta Maria",0,18,Hispanic,2,0,345764,0,Methadone,479
+830,830,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",0,62,"White, NH",0,0,113572,3009.12,Methadone,475
+816,816,0,1,"Fry, Mr. Richard",1,NA,"White, NH",0,0,112058,2574.56,Methadone,475
+852,852,0,3,"Svensson, Mr. Johan",1,74,"Black or African American, NH",0,0,347060,4120.46,Methadone,475
+263,263,0,1,"Taussig, Mr. Emil",1,52,"White, NH",1,1,110413,0,Methadone,472
+721,721,1,2,"Harper, Miss. Annie Jessie ""Nina""",0,46,"White, NH",0,1,248727,1545.93,Methadone,470
+739,739,0,3,"Ivanoff, Mr. Kanio",1,NA,Hispanic,0,0,349201,1967.32,Methadone,470
+618,618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",0,26,Hispanic,1,0,A/5. 3336,1078.38,Methadone,468
+454,454,1,1,"Goldenberg, Mr. Samuel L",1,49,"Black or African American, NH",1,0,17453,489,Methadone,467
+561,561,0,3,"Morrow, Mr. Thomas Rowan",1,NA,Hispanic,0,0,372622,1027.08,Methadone,467
+808,808,0,3,"Pettersson, Miss. Ellen Natalia",0,34,"White, NH",0,0,347087,2496.45,Methadone,466
+809,809,0,2,"Meyer, Mr. August",1,39,Hispanic,0,0,248723,2506.21,Methadone,462
+275,275,1,3,"Healy, Miss. Hanora ""Nora""",0,NA,Hispanic,0,0,370375,0,Methadone,461
+586,586,1,1,"Taussig, Miss. Ruth",0,46,Hispanic,0,2,110413,1049.58,Methadone,461
+436,436,1,1,"Carter, Miss. Lucile Polk",0,46,Hispanic,1,2,113760,0,Methadone,459
+310,310,1,1,"Francatelli, Miss. Laura Mabel",0,30,"Black or African American, NH",0,0,PC 17485,0,Methadone,456
+564,564,0,3,"Simmons, Mr. John",1,NA,"Native Hawaiian or Pacific Islander, NH",0,0,SOTON/OQ 392082,1029.78,Methadone,452
+668,668,0,3,"Rommetvedt, Mr. Knud Paust",1,NA,"White, NH",0,0,312993,1486.73,Methadone,452
+157,157,1,3,"Gilnagh, Miss. Katherine ""Katie""",0,26,"White, NH",0,0,35851,0,Methadone,451
+421,421,0,3,"Gheorgheff, Mr. Stanio",1,NA,"Black or African American, NH",0,0,349254,0,Methadone,450
+612,612,0,3,"Jardin, Mr. Jose Neto",1,NA,Hispanic,0,0,SOTON/O.Q. 3101305,1072.98,Methadone,447
+141,141,0,3,"Boulos, Mrs. Joseph (Sultana)",0,19,"White, NH",0,2,2678,0,Methadone,444
+716,716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",1,19,"Black or African American, NH",0,0,348124,1540.34,Methadone,444
+755,755,1,2,"Herman, Mrs. Samuel (Jane Laver)",0,48,"White, NH",1,2,220845,1987.3,Methadone,443
+354,354,0,3,"Arnold-Franchi, Mr. Josef",1,25,Hispanic,1,0,349237,0,Methadone,443
+599,599,0,3,"Boulos, Mr. Hanna",1,NA,Hispanic,0,0,2664,1061.28,Methadone,443
+889,889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",0,NA,"White, NH",1,2,W./C. 6607,7156.29,Methadone,443
+388,388,1,2,"Buss, Miss. Kate",0,36,"White, NH",0,0,27849,0,Methadone,441
+158,158,0,3,"Corn, Mr. Harry",1,28,"White, NH",0,0,SOTON/OQ 392090,0,Methadone,438
+390,390,1,2,"Lehmann, Miss. Bertha",0,36,Hispanic,0,0,SC 1748,0,Methadone,438
+806,806,0,3,"Johansson, Mr. Karl Johan",1,31,Hispanic,0,0,347063,2476.92,Methadone,438
+124,124,1,2,"Webber, Miss. Susan",0,18,"White, NH",0,0,27267,0,Methadone,436
+887,887,0,2,"Montvila, Rev. Juozas",1,27,Hispanic,0,0,211536,6992.2,Methadone,436
+66,66,1,3,"Moubarek, Master. Gerios",1,NA,Hispanic,1,1,2661,0,Methadone,435
+493,493,0,1,"Molson, Mr. Harry Markland",1,55,"White, NH",0,0,113787,857.8,Burpenorphine,433
+281,281,0,3,"Duane, Mr. Frank",1,65,"White, NH",0,0,336439,0,Methadone,433
+782,782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",0,46,"White, NH",1,0,17474,2021.02,Methadone,432
+468,468,0,1,"Smart, Mr. John Montgomery",1,56,"Black or African American, NH",0,0,113792,625.3,Methadone,432
+176,176,0,3,"Klasen, Mr. Klas Albin",1,61,Hispanic,1,1,350404,0,Methadone,431
+535,535,0,3,"Cacic, Miss. Marija",0,30,Hispanic,0,0,315084,1003.68,Methadone,430
+487,487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",0,35,Hispanic,1,0,19943,802,Methadone,430
+764,764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",0,36,"White, NH",1,2,113760,1998.54,Methadone,429
+270,270,1,1,"Bissette, Miss. Amelia",0,35,Hispanic,0,0,PC 17760,0,Methadone,427
+476,476,0,1,"Clifford, Mr. George Quincy",1,NA,"White, NH",0,0,110465,699.7,Methadone,425
+565,565,0,3,"Meanwell, Miss. (Marion Ogden)",0,NA,Hispanic,0,0,SOTON/O.Q. 392087,1030.68,Methadone,425
+466,466,0,3,"Goncalves, Mr. Manuel Estanslas",1,38,"White, NH",0,0,SOTON/O.Q. 3101306,606.7,Methadone,424
+759,759,0,3,"Theobald, Mr. Thomas Leonard",1,34,Hispanic,0,0,363294,1992.3,Methadone,421
+419,419,0,2,"Matthews, Mr. William John",1,30,"Black or African American, NH",0,0,28228,0,Methadone,420
+217,217,1,3,"Honkanen, Miss. Eliina",0,27,"White, NH",0,0,STON/O2. 3101283,0,Methadone,419
+424,424,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",0,28,"White, NH",1,1,347080,0,Methadone,418
+680,680,1,1,"Cardeza, Mr. Thomas Drake Martinez",1,36,Hispanic,0,1,PC 17755,1500.13,Methadone,416
+656,656,0,2,"Hickman, Mr. Leonard Mark",1,24,Hispanic,2,0,S.O.C. 14879,1473.32,Methadone,415
+306,306,1,1,"Allison, Master. Hudson Trevor",1,19,Hispanic,1,2,113781,0,Methadone,414
+396,396,0,3,"Johansson, Mr. Erik",1,22,Hispanic,0,0,350052,0,Methadone,412
+628,628,1,1,"Longley, Miss. Gretchen Fiske",0,21,"White, NH",0,0,13502,1087.38,Methadone,409
+870,870,1,3,"Johnson, Master. Harold Theodor",1,18,"Black or African American, NH",1,1,347742,5597.35,Methadone,408
+212,212,1,2,"Cameron, Miss. Clear Annie",0,35,"White, NH",0,0,F.C.C. 13528,0,Methadone,408
+865,865,0,2,"Gill, Mr. John William",1,24,Hispanic,0,0,233866,5187.1,Methadone,407
+308,308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",0,18,"White, NH",1,0,PC 17758,0,Methadone,406
+334,334,0,3,"Vander Planke, Mr. Leo Edmondus",1,31,"Black or African American, NH",2,0,345764,0,Methadone,406
+660,660,0,1,"Newell, Mr. Arthur Webster",1,58,Hispanic,0,2,35273,1477.79,Methadone,405
+516,516,0,1,"Walker, Mr. William Anderson",1,47,Hispanic,0,0,36967,986.58,Methadone,404
+365,365,0,3,"O'Brien, Mr. Thomas",1,NA,Hispanic,1,0,370365,0,Methadone,404
+773,773,0,2,"Mack, Mrs. (Mary)",0,57,Hispanic,0,0,S.O./P.P. 3,2009.78,Methadone,403
+529,529,0,3,"Salonen, Mr. Johan Werner",1,39,Hispanic,0,0,3101296,998.28,Methadone,403
+111,111,0,1,"Porter, Mr. Walter Chamberlain",1,47,Hispanic,0,0,110465,0,Methadone,403
+23,23,1,3,"McGowan, Miss. Anna ""Annie""",0,19,Hispanic,0,0,330923,0,Methadone,402
+621,621,0,3,"Yasbeck, Mr. Antoni",1,27,Hispanic,1,0,2659,1081.08,Methadone,401
+318,318,0,2,"Moraweck, Dr. Ernest",1,54,Hispanic,0,0,29011,0,Methadone,399
+512,512,0,3,"Webber, Mr. James",1,NA,Hispanic,0,0,SOTON/OQ 3101316,982.98,Methadone,398
+794,794,0,1,"Hoyt, Mr. William Fisher",1,NA,Hispanic,0,0,PC 17600,2036.01,Methadone,398
+262,262,1,3,"Asplund, Master. Edvin Rojj Felix",1,61,"White, NH",4,2,347077,0,Methadone,398
+703,703,0,3,"Barbara, Miss. Saiide",0,18,"White, NH",0,1,2691,1525.82,Methadone,397
+593,593,0,3,"Elsbury, Mr. William James",1,47,"White, NH",0,0,A/5 3902,1055.88,Methadone,397
+45,45,1,3,"Devaney, Miss. Margaret Delia",0,19,Hispanic,0,0,330958,0,Methadone,396
+547,547,1,2,"Beane, Mrs. Edward (Ethel Clarke)",0,19,Hispanic,1,0,2908,1014.48,Methadone,396
+225,225,1,1,"Hoyt, Mr. Frederick Maxfield",1,38,Hispanic,1,0,19943,0,Methadone,395
+92,92,0,3,"Andreasson, Mr. Paul Edvin",1,20,"White, NH",0,0,347466,0,Methadone,394
+683,683,0,3,"Olsvigen, Mr. Thor Anderson",1,20,"White, NH",0,0,6563,1503.48,Methadone,393
+447,447,1,2,"Mellinger, Miss. Madeleine Violet",0,63,"White, NH",0,1,250644,0,Methadone,392
+539,539,0,3,"Risien, Mr. Samuel Beard",1,NA,"White, NH",0,0,364498,1007.28,Methadone,392
+49,49,0,3,"Samaan, Mr. Youssef",1,NA,Hispanic,2,0,2662,0,Methadone,391
+215,215,0,3,"Kiernan, Mr. Philip",1,NA,Hispanic,1,0,367229,0,Methadone,390
+382,382,1,3,"Nakid, Miss. Maria (""Mary"")",0,61,"White, NH",0,2,2653,0,Methadone,390
+151,151,0,2,"Bateman, Rev. Robert James",1,18,Hispanic,0,0,S.O.P. 1166,0,Methadone,390
+385,385,0,3,"Plotcharsky, Mr. Vasil",1,NA,"Black or African American, NH",0,0,349227,0,Methadone,389
+173,173,1,3,"Johnson, Miss. Eleanor Ileen",0,33,"White, NH",1,1,347742,0,Methadone,389
+145,145,0,2,"Andrew, Mr. Edgardo Samuel",1,18,Hispanic,0,0,231945,0,Methadone,389
+256,256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",0,29,Hispanic,0,2,2650,0,Methadone,389
+52,52,0,3,"Nosworthy, Mr. Richard Cater",1,21,Hispanic,0,0,A/4. 39886,0,Methadone,388
+777,777,0,3,"Tobin, Mr. Roger",1,NA,"Black or African American, NH",0,0,383121,2014.78,Methadone,387
+380,380,0,3,"Gustafsson, Mr. Karl Gideon",1,19,Hispanic,0,0,347069,0,Methadone,386
+337,337,0,1,"Pears, Mr. Thomas Clinton",1,29,Hispanic,1,0,113776,0,Methadone,385
+617,617,0,3,"Danbom, Mr. Ernst Gilbert",1,34,Hispanic,1,1,347080,1077.48,Methadone,384
+204,204,0,3,"Youseff, Mr. Gerious",1,45.5,"White, NH",0,0,2628,0,Methadone,384
+866,866,1,2,"Bystrom, Mrs. (Karolina)",0,42,"White, NH",0,0,236852,5269.15,Methadone,382
+51,51,0,3,"Panula, Master. Juha Niilo",1,18,Hispanic,4,1,3101295,0,Methadone,382
+551,551,1,1,"Thayer, Mr. John Borland Jr",1,69,"Black or African American, NH",0,2,17421,1018.08,Methadone,381
+15,15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",0,18,"White, NH",0,0,350406,0,Methadone,381
+807,807,0,1,"Andrews, Mr. Thomas Jr",1,39,Hispanic,0,0,112050,2486.69,Methadone,379
+73,73,0,2,"Hood, Mr. Ambrose Jr",1,21,"White, NH",0,0,S.O.C. 14879,0,Methadone,378
+511,511,1,3,"Daly, Mr. Eugene Patrick",1,29,Hispanic,0,0,382651,982.08,Methadone,378
+222,222,0,2,"Bracken, Mr. James H",1,27,"White, NH",0,0,220367,0,Methadone,377
+879,879,0,3,"Laleff, Mr. Kristo",1,NA,Hispanic,0,0,349217,6335.8,Methadone,376
+155,155,0,3,"Olsen, Mr. Ole Martin",1,18,"Black or African American, NH",0,0,Fa 265302,0,Methadone,376
+384,384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",0,35,"White, NH",1,0,113789,0,Methadone,375
+4,4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",0,35,Hispanic,1,0,113803,0,Methadone,375
+641,641,0,3,"Jensen, Mr. Hans Peder",1,20,"White, NH",0,0,350050,1099.08,Methadone,373
+408,408,1,2,"Richards, Master. William Rowe",1,27,"White, NH",1,1,29106,0,Methadone,373
+182,182,0,2,"Pernot, Mr. Rene",1,NA,Hispanic,0,0,SC/PARIS 2131,0,Methadone,372
+293,293,0,2,"Levy, Mr. Rene Jacques",1,36,"White, NH",0,0,SC/Paris 2163,0,Burpenorphine,372
+300,300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",0,50,"White, NH",0,1,PC 17558,0,Methadone,371
+849,849,0,2,"Harper, Rev. John",1,28,Hispanic,0,1,248727,3901.54,Methadone,371
+336,336,0,3,"Denkoff, Mr. Mitto",1,NA,Hispanic,0,0,349225,0,Methadone,369
+311,311,1,1,"Hays, Miss. Margaret Bechstein",0,24,"White, NH",0,0,11767,0,Methadone,368
+288,288,0,3,"Naidenoff, Mr. Penko",1,22,"White, NH",0,0,349206,0,Methadone,367
+450,450,1,1,"Peuchen, Major. Arthur Godfrey",1,52,Hispanic,0,0,113786,0,Methadone,365
+87,87,0,3,"Ford, Mr. William Neal",1,28,Hispanic,1,3,W./C. 6608,0,Methadone,364
+546,546,0,1,"Nicholson, Mr. Arthur Ernest",1,64,"Black or African American, NH",0,0,693,1013.58,Methadone,364
+554,554,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",1,22,"White, NH",0,0,2620,1020.78,Methadone,364
+241,241,0,3,"Zabour, Miss. Thamine",0,NA,"Black or African American, NH",1,0,2665,0,Methadone,363
+545,545,0,1,"Douglas, Mr. Walter Donald",1,50,Hispanic,1,0,PC 17761,1012.68,Methadone,363
+746,746,0,1,"Crosby, Capt. Edward Gifford",1,70,Hispanic,1,1,WE/P 5735,1976.06,Methadone,363
+697,697,0,3,"Kelly, Mr. James",1,44,Hispanic,0,0,363592,1519.12,Methadone,361
+756,756,1,2,"Hamalainen, Master. Viljo",1,43,"Black or African American, NH",1,1,250649,1988.55,Methadone,360
+296,296,0,1,"Lewy, Mr. Ervin G",1,NA,"White, NH",0,0,PC 17612,0,Methadone,360
+823,823,0,1,"Reuchlin, Jonkheer. John George",1,38,Hispanic,0,0,19972,2642.91,Methadone,360
+355,355,0,3,"Yousif, Mr. Wazli",1,NA,"Black or African American, NH",0,0,2647,0,Methadone,358
+837,837,0,3,"Pasic, Mr. Jakob",1,21,"White, NH",0,0,315097,3130.02,Methadone,358
+810,810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",0,33,Hispanic,1,0,113806,2515.98,Methadone,357
+258,258,1,1,"Cherry, Miss. Gladys",0,30,Hispanic,0,0,110152,0,Methadone,357
+410,410,0,3,"Lefebre, Miss. Ida",0,NA,Hispanic,3,1,4133,0,Methadone,356
+112,112,0,3,"Zabour, Miss. Hileni",0,24,"White, NH",1,0,2665,0,Methadone,356
+576,576,0,3,"Patchett, Mr. George",1,19,Hispanic,0,0,358585,1040.58,Methadone,355
+249,249,1,1,"Beckwith, Mr. Richard Leonard",1,37,"Multiracial - Unspecified, NH",1,1,11751,0,Methadone,355
+226,226,0,3,"Berglund, Mr. Karl Ivar Sven",1,22,Hispanic,0,0,PP 4348,0,Methadone,355
+860,860,0,3,"Razi, Mr. Raihed",1,NA,"Black or African American, NH",0,0,2629,4776.85,Methadone,355
+804,804,1,3,"Thomas, Master. Assad Alexander",1,47,Hispanic,0,1,2625,2449.94,Burpenorphine,354
+14,14,0,3,"Andersson, Mr. Anders Johan",1,39,"White, NH",1,5,347082,0,Methadone,353
+239,239,0,2,"Pengelly, Mr. Frederick William",1,19,"White, NH",0,0,28665,0,Methadone,353
+359,359,1,3,"McGovern, Miss. Mary",0,NA,"White, NH",0,0,330931,0,Methadone,353
+731,731,1,1,"Allen, Miss. Elisabeth Walton",0,29,"White, NH",0,0,24160,1956.1,Methadone,352
+115,115,0,3,"Attalah, Miss. Malake",0,18,"Black or African American, NH",0,0,2627,0,Methadone,352
+426,426,0,3,"Wiseman, Mr. Phillippe",1,NA,Hispanic,0,0,A/4. 34244,0,Methadone,352
+59,59,1,2,"West, Miss. Constance Mirium",0,18,Hispanic,1,2,C.A. 34651,0,Methadone,351
+188,188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",1,45,Hispanic,0,0,111428,0,Methadone,351
+93,93,0,1,"Chaffee, Mr. Herbert Fuller",1,46,"White, NH",1,0,W.E.P. 5734,0,Methadone,351
+200,200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",0,24,Hispanic,0,0,248747,0,Methadone,351
+691,691,1,1,"Dick, Mr. Albert Adrian",1,31,"Black or African American, NH",1,0,17474,1512.42,Methadone,350
+429,429,0,3,"Flynn, Mr. James",1,NA,Hispanic,0,0,364851,0,Methadone,350
+274,274,0,1,"Natsch, Mr. Charles H",1,37,"Black or African American, NH",0,1,PC 17596,0,Methadone,350
+687,687,0,3,"Panula, Mr. Jaako Arnold",1,64,"White, NH",4,1,3101295,1507.95,Methadone,349
+827,827,0,3,"Lam, Mr. Len",1,NA,Hispanic,0,0,1601,2980.91,Methadone,347
+383,383,0,3,"Tikkanen, Mr. Juho",1,32,"White, NH",0,0,STON/O 2. 3101293,0,Burpenorphine,347
+638,638,0,2,"Collyer, Mr. Harvey",1,31,Hispanic,1,1,C.A. 31921,1096.38,Methadone,347
+428,428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",0,19,"White, NH",0,0,250655,0,Methadone,345
+283,283,0,3,"de Pelsmaeker, Mr. Alfons",1,38,"White, NH",0,0,345778,0,Burpenorphine,345
+369,369,1,3,"Jermyn, Miss. Annie",0,NA,"Black or African American, NH",0,0,14313,0,Methadone,344
+21,21,0,2,"Fynney, Mr. Joseph J",1,35,"White, NH",0,0,239865,0,Methadone,344
+299,299,1,1,"Saalfeld, Mr. Adolphe",1,NA,"White, NH",0,0,19988,0,Methadone,343
+833,833,0,3,"Saad, Mr. Amin",1,NA,Hispanic,0,0,2671,3063.01,Methadone,343
+533,533,0,3,"Elias, Mr. Joseph Jr",1,36,"White, NH",1,1,2690,1001.88,Methadone,342
+401,401,1,3,"Niskanen, Mr. Juha",1,39,"White, NH",0,0,STON/O 2. 3101289,0,Methadone,342
+89,89,1,1,"Fortune, Miss. Mabel Helen",0,23,"White, NH",3,2,19950,0,Methadone,341
+557,557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",0,48,Hispanic,1,0,11755,1023.48,Methadone,340
+90,90,0,3,"Celotti, Mr. Francesco",1,24,"Black or African American, NH",0,0,343275,0,Methadone,338
+774,774,0,3,"Elias, Mr. Dibo",1,NA,Hispanic,0,0,2674,2011.03,Methadone,338
+815,815,0,3,"Tomlin, Mr. Ernest Portage",1,30.5,"White, NH",0,0,364499,2564.8,Methadone,337
+139,139,0,3,"Osen, Mr. Olaf Elon",1,18,"White, NH",0,0,7534,0,Burpenorphine,336
+556,556,0,1,"Wright, Mr. George",1,62,Hispanic,0,0,113807,1022.58,Methadone,335
+480,480,1,3,"Hirvonen, Miss. Hildur E",0,61,"Black or African American, NH",0,1,3101298,736.9,Methadone,335
+74,74,0,3,"Chronopoulos, Mr. Apostolos",1,26,"Black or African American, NH",1,0,2680,0,Methadone,334
+439,439,0,1,"Fortune, Mr. Mark",1,64,"White, NH",1,4,19950,0,Methadone,333
+473,473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",0,33,"Black or African American, NH",1,2,C.A. 34651,671.8,Methadone,333
+805,805,1,3,"Hedman, Mr. Oskar Arvid",1,27,"White, NH",0,0,347089,2467.16,Methadone,331
+247,247,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",0,25,Hispanic,0,0,347071,0,Methadone,330
+607,607,0,3,"Karaic, Mr. Milan",1,30,"Black or African American, NH",0,0,349246,1068.48,Methadone,329
+584,584,0,1,"Ross, Mr. John Hugo",1,36,Hispanic,0,0,13049,1047.78,Burpenorphine,329
+513,513,1,1,"McGough, Mr. James Robert",1,36,"Black or African American, NH",0,0,PC 17473,983.88,Methadone,328
+601,601,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",0,24,"Black or African American, NH",2,1,243847,1063.08,Methadone,326
+387,387,0,3,"Goodwin, Master. Sidney Leonard",1,49,"Black or African American, NH",5,2,CA 2144,0,Methadone,324
+244,244,0,3,"Maenpaa, Mr. Matti Alexanteri",1,22,"White, NH",0,0,STON/O 2. 3101275,0,Methadone,324
+548,548,1,2,"Padro y Manent, Mr. Julian",1,NA,"White, NH",0,0,SC/PARIS 2146,1015.38,Methadone,323
+528,528,0,1,"Farthing, Mr. John",1,NA,"Black or African American, NH",0,0,PC 17483,997.38,Methadone,323
+331,331,1,3,"McCoy, Miss. Agnes",0,NA,Hispanic,2,0,367226,0,Methadone,322
+232,232,0,3,"Larsson, Mr. Bengt Edvin",1,29,Hispanic,0,0,347067,0,Methadone,321
+214,214,0,2,"Givard, Mr. Hans Kristensen",1,30,Hispanic,0,0,250646,0,Methadone,321
+560,560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",0,36,"White, NH",1,0,345572,1026.18,Methadone,321
+736,736,0,3,"Williams, Mr. Leslie",1,28.5,Hispanic,0,0,54636,1963.57,Methadone,319
+122,122,0,3,"Moore, Mr. Leonard Charles",1,18,Hispanic,0,0,A4. 54510,0,Methadone,318
+749,749,0,1,"Marvin, Mr. Daniel Warner",1,19,"White, NH",1,0,113773,1979.81,Methadone,318
+2,2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",0,38,"White, NH",1,0,PC 17599,0,Methadone,317
+353,353,0,3,"Elias, Mr. Tannous",1,63,"White, NH",1,1,2695,0,Methadone,317
+566,566,0,3,"Davies, Mr. Alfred J",1,24,Hispanic,2,0,A/4 48871,1031.58,Methadone,316
+96,96,0,3,"Shorney, Mr. Charles Joseph",1,NA,"White, NH",0,0,374910,0,Methadone,316
+10,10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",0,21,"Black or African American, NH",1,0,237736,0,Methadone,316
+853,853,0,3,"Boulos, Miss. Nourelain",0,43,"White, NH",1,1,2678,4202.51,Burpenorphine,316
+185,185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",0,26,"White, NH",0,2,315153,0,Methadone,316
+203,203,0,3,"Johanson, Mr. Jakob Alfred",1,34,Hispanic,0,0,3101264,0,Methadone,316
+138,138,0,1,"Futrelle, Mr. Jacques Heath",1,37,Hispanic,1,0,113803,0,Methadone,315
+699,699,0,1,"Thayer, Mr. John Borland",1,49,Hispanic,1,1,17421,1521.35,Methadone,315
+624,624,0,3,"Hansen, Mr. Henry Damsgaard",1,21,"White, NH",0,0,350029,1083.78,Methadone,315
+826,826,0,3,"Flynn, Mr. John",1,NA,Hispanic,0,0,368323,2931.64,Methadone,315
+851,851,0,3,"Andersson, Master. Sigvard Harald Elias",1,51,Hispanic,4,2,347082,3920.84,Methadone,315
+395,395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",0,24,"White, NH",0,2,PP 9549,0,Methadone,315
+177,177,0,3,"Lefebre, Master. Henry Forbes",1,NA,"Black or African American, NH",3,1,4133,0,Methadone,312
+7,7,0,1,"McCarthy, Mr. Timothy J",1,54,Hispanic,0,0,17463,0,Burpenorphine,311
+708,708,1,1,"Calderhead, Mr. Edward Pennington",1,42,Hispanic,0,0,PC 17476,1531.41,Methadone,311
+72,72,0,3,"Goodwin, Miss. Lillian Amy",0,18,Hispanic,5,2,CA 2144,0,Methadone,311
+302,302,1,3,"McCoy, Mr. Bernard",1,NA,"Black or African American, NH",2,0,367226,0,Methadone,310
+438,438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",0,24,Hispanic,2,3,29106,0,Methadone,309
+598,598,0,3,"Johnson, Mr. Alfred",1,49,"White, NH",0,0,LINE,1060.38,Methadone,309
+309,309,0,2,"Abelson, Mr. Samuel",1,30,Hispanic,1,0,P/PP 3381,0,Methadone,308
+760,760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",0,33,"White, NH",0,0,110152,1993.55,Methadone,308
+48,48,1,3,"O'Driscoll, Miss. Bridget",0,NA,Hispanic,0,0,14311,0,Methadone,307
+595,595,0,2,"Chapman, Mr. John Henry",1,37,"White, NH",1,0,SC/AH 29037,1057.68,Methadone,307
+754,754,0,3,"Jonkoff, Mr. Lalio",1,23,Hispanic,0,0,349204,1986.05,Methadone,307
+41,41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",0,40,"White, NH",1,0,7546,0,Methadone,306
+549,549,0,3,"Goldsmith, Mr. Frank John",1,33,Hispanic,1,1,363291,1016.28,Methadone,305
+55,55,0,1,"Ostby, Mr. Engelhart Cornelius",1,65,"White, NH",0,1,113509,0,Methadone,304
+688,688,0,3,"Dakic, Mr. Branko",1,19,"White, NH",0,0,349228,1509.07,Burpenorphine,304
+788,788,0,3,"Rice, Master. George Hugh",1,64,"White, NH",4,1,382652,2028.51,Burpenorphine,304
+170,170,0,3,"Ling, Mr. Lee",1,28,"White, NH",0,0,1601,0,Methadone,303
+423,423,0,3,"Zimmerman, Mr. Leo",1,29,Hispanic,0,0,315082,0,Methadone,302
+490,490,1,3,"Coutts, Master. Eden Leslie ""Neville""",1,39,"Asian, NH",1,1,C.A. 37671,829.9,Methadone,302
+567,567,0,3,"Stoytcheff, Mr. Ilia",1,19,Hispanic,0,0,349205,1032.48,Methadone,302
+460,460,0,3,"O'Connor, Mr. Maurice",1,NA,"White, NH",0,0,371060,550.9,Methadone,302
+326,326,1,1,"Young, Miss. Marie Grice",0,36,Hispanic,0,0,PC 17760,0,Methadone,302
+268,268,1,3,"Persson, Mr. Ernst Ulrik",1,25,Hispanic,1,0,347083,0,Burpenorphine,301
+582,582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",0,39,"White, NH",1,1,17421,1045.98,Burpenorphine,300
+259,259,1,1,"Ward, Miss. Anna",0,35,"White, NH",0,0,PC 17755,0,Methadone,299
+679,679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",0,43,"White, NH",1,6,CA 2144,1499.01,Methadone,299
+669,669,0,3,"Cook, Mr. Jacob",1,43,"White, NH",0,0,A/5 3536,1487.84,Methadone,298
+137,137,1,1,"Newsom, Miss. Helen Monypeny",0,19,"White, NH",0,2,11752,0,Burpenorphine,298
+305,305,0,3,"Williams, Mr. Howard Hugh ""Harry""",1,NA,"White, NH",0,0,A/5 2466,0,Methadone,298
+195,195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",0,44,"American Indian or Alaska Native, NH",0,0,PC 17610,0,Methadone,297
+471,471,0,3,"Keefe, Mr. Arthur",1,NA,Hispanic,0,0,323592,653.2,Methadone,297
+107,107,1,3,"Salkjelsvik, Miss. Anna Kristine",0,21,Hispanic,0,0,343120,0,Burpenorphine,296
+574,574,1,3,"Kelly, Miss. Mary",0,NA,"Black or African American, NH",0,0,14312,1038.78,Methadone,295
+20,20,1,3,"Masselmani, Mrs. Fatima",0,NA,Hispanic,0,0,2649,0,Methadone,294
+689,689,0,3,"Fischer, Mr. Eberhard Thelander",1,32,Hispanic,0,0,350036,1510.18,Methadone,294
+537,537,0,1,"Butt, Major. Archibald Willingham",1,45,"Multiracial - Unspecified, NH",0,0,113050,1005.48,Methadone,293
+781,781,1,3,"Ayoub, Miss. Banoura",0,34,"White, NH",0,0,2687,2019.77,Burpenorphine,293
+824,824,1,3,"Moor, Mrs. (Beila)",0,27,"White, NH",0,1,392096,2652.67,Burpenorphine,292
+175,175,0,1,"Smith, Mr. James Clinch",1,56,"Black or African American, NH",0,0,17764,0,Methadone,292
+747,747,0,3,"Abbott, Mr. Rossmore Edward",1,71,"White, NH",1,1,C.A. 2673,1977.31,Methadone,291
+481,481,0,3,"Goodwin, Master. Harold Victor",1,42,"White, NH",5,2,CA 2144,746.2,Burpenorphine,290
+199,199,1,3,"Madigan, Miss. Margaret ""Maggie""",0,NA,"White, NH",0,0,370370,0,Methadone,290
+64,64,0,3,"Skoog, Master. Harald",1,18,"Black or African American, NH",3,2,347088,0,Methadone,289
+360,360,1,3,"Mockler, Miss. Helen Mary ""Ellie""",0,NA,"White, NH",0,0,330980,0,Burpenorphine,289
+482,482,0,2,"Frost, Mr. Anthony Wood ""Archie""",1,NA,"White, NH",0,0,239854,755.5,Burpenorphine,289
+677,677,0,3,"Sawyer, Mr. Frederick Charles",1,24.5,"White, NH",0,0,342826,1496.78,Methadone,287
+405,405,0,3,"Oreskovic, Miss. Marija",0,20,"Multiracial - Unspecified, NH",0,0,315096,0,Burpenorphine,287
+798,798,1,3,"Osman, Mrs. Mara",0,31,Hispanic,0,0,349244,2041,Methadone,285
+738,738,1,1,"Lesurer, Mr. Gustave J",1,35,Hispanic,0,0,PC 17755,1966.07,Methadone,285
+636,636,1,2,"Davis, Miss. Mary",0,28,"Asian, NH",0,0,237668,1094.58,Burpenorphine,284
+478,478,0,3,"Braund, Mr. Lewis Richard",1,29,Hispanic,1,0,3460,718.3,Methadone,284
+740,740,0,3,"Nankoff, Mr. Minko",1,NA,Hispanic,0,0,349218,1968.57,Methadone,284
+255,255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",0,41,Hispanic,0,2,370129,0,Methadone,283
+366,366,0,3,"Adahl, Mr. Mauritz Nils Martin",1,30,Hispanic,0,0,C 7076,0,Methadone,283
+269,269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",0,58,Hispanic,0,1,PC 17582,0,Burpenorphine,283
+356,356,0,3,"Vanden Steen, Mr. Leo Peter",1,28,"Black or African American, NH",0,0,345783,0,Methadone,282
+159,159,0,3,"Smiljanic, Mr. Mile",1,24,"Black or African American, NH",0,0,315037,0,Methadone,282
+211,211,0,3,"Ali, Mr. Ahmed",1,24,"White, NH",0,0,SOTON/O.Q. 3101311,0,Methadone,281
+235,235,0,2,"Leyson, Mr. Robert William Norman",1,24,Hispanic,0,0,C.A. 29566,0,Methadone,281
+287,287,1,3,"de Mulder, Mr. Theodore",1,30,"White, NH",0,0,345774,0,Burpenorphine,281
+47,47,0,3,"Lennon, Mr. Denis",1,NA,"White, NH",1,0,370371,0,Methadone,280
+441,441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",0,45,"Black or African American, NH",1,1,F.C.C. 13529,0,Methadone,280
+6,6,0,3,"Moran, Mr. James",1,NA,"White, NH",0,0,330877,0,Methadone,280
+132,132,0,3,"Coelho, Mr. Domingos Fernandeo",1,22,"Black or African American, NH",0,0,SOTON/O.Q. 3101307,0,Methadone,280
+261,261,0,3,"Smith, Mr. Thomas",1,NA,"White, NH",0,0,384461,0,Burpenorphine,280
+79,79,1,2,"Caldwell, Master. Alden Gates",1,22,"Black or African American, NH",0,2,248738,0,Burpenorphine,279
+818,818,0,2,"Mallet, Mr. Albert",1,31,"White, NH",1,1,S.C./PARIS 2079,2594.09,Burpenorphine,279
+266,266,0,2,"Reeves, Mr. David",1,36,"White, NH",0,0,C.A. 17248,0,Methadone,278
+435,435,0,1,"Silvey, Mr. William Baird",1,50,"White, NH",1,0,13507,0,Methadone,276
+81,81,0,3,"Waelens, Mr. Achille",1,22,"White, NH",0,0,345767,0,Methadone,276
+5,5,0,3,"Allen, Mr. William Henry",1,35,"White, NH",0,0,373450,0,Methadone,275
+591,591,0,3,"Rintamaki, Mr. Matti",1,35,"White, NH",0,0,STON/O 2. 3101273,1054.08,Burpenorphine,275
+786,786,0,3,"Harmer, Mr. Abraham (David Lishin)",1,25,"White, NH",0,0,374887,2026.02,Burpenorphine,274
+710,710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",1,NA,Hispanic,1,1,2661,1533.64,Methadone,274
+722,722,0,3,"Jensen, Mr. Svend Lauritz",1,51,"White, NH",1,0,350048,1547.05,Methadone,273
+407,407,0,3,"Widegren, Mr. Carl/Charles Peter",1,51,"White, NH",0,0,347064,0,Burpenorphine,273
+578,578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",0,39,"White, NH",1,0,13507,1042.38,Methadone,272
+888,888,1,1,"Graham, Miss. Margaret Edith",0,19,"Black or African American, NH",0,0,112053,7074.24,Methadone,272
+67,67,1,2,"Nye, Mrs. (Elizabeth Ramell)",0,29,"Black or African American, NH",0,0,C.A. 29395,0,Methadone,272
+588,588,1,1,"Frolicher-Stehli, Mr. Maxmillian",1,60,Hispanic,1,1,13567,1051.38,Methadone,270
+819,819,0,3,"Holm, Mr. John Fredrik Alexander",1,43,Hispanic,0,0,C 7075,2603.85,Methadone,270
+43,43,0,3,"Kraeff, Mr. Theodor",1,NA,"White, NH",0,0,349253,0,Burpenorphine,269
+514,514,1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",0,54,Hispanic,1,0,PC 17603,984.78,Burpenorphine,269
+714,714,0,3,"Larsson, Mr. August Viktor",1,29,Hispanic,0,0,7545,1538.11,Methadone,269
+792,792,0,2,"Gaskell, Mr. Alfred",1,61,"White, NH",0,0,239865,2033.51,Methadone,268
+430,430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",1,32,Hispanic,0,0,SOTON/O.Q. 392078,0,Methadone,268
+8,8,0,3,"Palsson, Master. Gosta Leonard",1,18,"Black or African American, NH",3,1,349909,0,Methadone,267
+228,228,0,3,"Lovell, Mr. John Hall (""Henry"")",1,20.5,Hispanic,0,0,A/5 21173,0,Methadone,267
+491,491,0,3,"Hagland, Mr. Konrad Mathias Reiersen",1,NA,"White, NH",1,0,65304,839.2,Burpenorphine,266
+752,752,1,3,"Moor, Master. Meier",1,51,"White, NH",0,1,392096,1983.56,Burpenorphine,266
+18,18,1,2,"Williams, Mr. Charles Eugene",1,NA,"Black or African American, NH",0,0,244373,0,Methadone,265
+399,399,0,2,"Pain, Dr. Alfred",1,23,"Black or African American, NH",0,0,244278,0,Burpenorphine,265
+594,594,0,3,"Bourke, Miss. Mary",0,NA,Hispanic,0,2,364848,1056.78,Burpenorphine,265
+372,372,0,3,"Wiklund, Mr. Jakob Alfred",1,71,"Black or African American, NH",1,0,3101267,0,Methadone,264
+625,625,0,3,"Bowen, Mr. David John ""Dai""",1,21,"White, NH",0,0,54636,1084.68,Methadone,264
+196,196,1,1,"Lurette, Miss. Elise",0,58,"White, NH",0,0,PC 17569,0,Methadone,263
+32,32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",0,NA,Hispanic,1,0,PC 17569,0,Burpenorphine,263
+643,643,0,3,"Skoog, Miss. Margit Elizabeth",0,18,"White, NH",3,2,347088,1100.88,Methadone,262
+704,704,0,3,"Gallagher, Mr. Martin",1,25,Hispanic,0,0,36864,1526.94,Methadone,262
+184,184,1,2,"Becker, Master. Richard F",1,21,"Black or African American, NH",2,1,230136,0,Methadone,262
+665,665,1,3,"Lindqvist, Mr. Eino William",1,20,"White, NH",1,0,STON/O 2. 3101285,1483.38,Methadone,262
+298,298,0,1,"Allison, Miss. Helen Loraine",0,29,"Black or African American, NH",1,2,113781,0,Methadone,262
+37,37,1,3,"Mamee, Mr. Hanna",1,NA,"White, NH",0,0,2677,0,Burpenorphine,261
+240,240,0,2,"Hunt, Mr. George Henry",1,33,Hispanic,0,0,SCO/W 1585,0,Burpenorphine,261
+647,647,0,3,"Cor, Mr. Liudevit",1,19,Hispanic,0,0,349231,1104.48,Burpenorphine,261
+174,174,0,3,"Sivola, Mr. Antti Wilhelm",1,21,"Black or African American, NH",0,0,STON/O 2. 3101280,0,Methadone,261
+183,183,0,3,"Asplund, Master. Clarence Gustaf Hugo",1,77,"Native Hawaiian or Pacific Islander, NH",4,2,347077,0,Burpenorphine,259
+651,651,0,3,"Mitkoff, Mr. Mito",1,NA,Hispanic,0,0,349221,1467.61,Burpenorphine,259
+552,552,0,2,"Sharp, Mr. Percival James R",1,27,Hispanic,0,0,244358,1018.98,Methadone,259
+499,499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",0,25,Hispanic,1,2,113781,913.6,Methadone,259
+712,712,0,1,"Klaber, Mr. Herman",1,NA,"Native Hawaiian or Pacific Islander, NH",0,0,113028,1535.88,Methadone,259
+368,368,1,3,"Moussa, Mrs. (Mantoura Boulos)",0,NA,"White, NH",0,0,2626,0,Burpenorphine,257
+166,166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",1,62,"Multiracial - Unspecified, NH",0,2,363291,0,Methadone,257
+523,523,0,3,"Lahoud, Mr. Sarkis",1,NA,"White, NH",0,0,2624,992.88,Methadone,256
+397,397,0,3,"Olsson, Miss. Elina",0,31,"White, NH",0,0,350407,0,Methadone,256
+863,863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",0,48,"White, NH",0,0,17466,5023,Methadone,255
+632,632,0,3,"Lundahl, Mr. Johan Svensson",1,51,"White, NH",0,0,347743,1090.98,Methadone,255
+238,238,1,2,"Collyer, Miss. Marjorie ""Lottie""",0,79,Hispanic,0,2,C.A. 31921,0,Methadone,254
+125,125,0,1,"White, Mr. Percival Wayland",1,21,"White, NH",0,1,35281,0,Methadone,252
+233,233,0,2,"Sjostedt, Mr. Ernst Adolf",1,59,"White, NH",0,0,237442,0,Burpenorphine,252
+60,60,0,3,"Goodwin, Master. William Frederick",1,19,"White, NH",5,2,CA 2144,0,Methadone,252
+265,265,0,3,"Henry, Miss. Delia",0,NA,"White, NH",0,0,382649,0,Methadone,252
+522,522,0,3,"Vovk, Mr. Janko",1,22,"Black or African American, NH",0,0,349252,991.98,Burpenorphine,251
+530,530,0,2,"Hocking, Mr. Richard George",1,23,"White, NH",2,1,29104,999.18,Burpenorphine,251
+765,765,0,3,"Eklund, Mr. Hans Linus",1,29,"White, NH",0,0,347074,1999.79,Burpenorphine,251
+197,197,0,3,"Mernagh, Mr. Robert",1,NA,Hispanic,0,0,368703,0,Methadone,250
+324,324,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",0,22,Hispanic,1,1,248738,0,Methadone,250
+220,220,0,2,"Harris, Mr. Walter",1,30,"American Indian or Alaska Native, NH",0,0,W/C 14208,0,Burpenorphine,250
+393,393,0,3,"Gustafsson, Mr. Johan Birger",1,28,"White, NH",2,0,3101277,0,Burpenorphine,250
+46,46,0,3,"Rogers, Mr. William John",1,NA,Hispanic,0,0,S.C./A.4. 23567,0,Methadone,249
+389,389,0,3,"Sadlier, Mr. Matthew",1,NA,"White, NH",0,0,367655,0,Burpenorphine,248
+148,148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",0,18,"White, NH",2,2,W./C. 6608,0,Methadone,247
+696,696,0,2,"Chapman, Mr. Charles Henry",1,52,"White, NH",0,0,248731,1518,Methadone,244
+147,147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",1,19,Hispanic,0,0,350043,0,Methadone,243
+313,313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",0,26,Hispanic,1,1,250651,0,Burpenorphine,243
+108,108,1,3,"Moss, Mr. Albert Johan",1,NA,Hispanic,0,0,312991,0,Methadone,243
+414,414,0,2,"Cunningham, Mr. Alfred Fleming",1,NA,Hispanic,0,0,239853,0,Methadone,243
+142,142,1,3,"Nysten, Miss. Anna Sofia",0,18,"White, NH",0,0,347081,0,Methadone,243
+455,455,0,3,"Peduzzi, Mr. Joseph",1,NA,Hispanic,0,0,A/5 2817,510,Methadone,242
+38,38,0,3,"Cann, Mr. Ernest Charles",1,21,"White, NH",0,0,A./5. 2152,0,Methadone,242
+280,280,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",0,35,"White, NH",1,1,C.A. 2673,0,Burpenorphine,242
+102,102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",1,NA,"White, NH",0,0,349215,0,Burpenorphine,241
+321,321,0,3,"Dennis, Mr. Samuel",1,22,Hispanic,0,0,A/5 21172,0,Burpenorphine,241
+597,597,1,2,"Leitch, Miss. Jessie Wills",0,NA,Hispanic,0,0,248727,1059.48,Methadone,241
+350,350,0,3,"Dimic, Mr. Jovan",1,42,"White, NH",0,0,315088,0,Methadone,241
+637,637,0,3,"Leinonen, Mr. Antti Gustaf",1,32,Hispanic,0,0,STON/O 2. 3101292,1095.48,Methadone,240
+69,69,1,3,"Andersson, Miss. Erna Alexandra",0,19,"White, NH",4,2,3101281,0,Burpenorphine,240
+322,322,0,3,"Danoff, Mr. Yoto",1,27,"White, NH",0,0,349219,0,Burpenorphine,240
+503,503,0,3,"O'Sullivan, Miss. Bridget Mary",0,NA,"Multiracial - Unspecified, NH",0,0,330909,950.8,Burpenorphine,240
+861,861,0,3,"Hansen, Mr. Claus Peter",1,41,"White, NH",2,0,350026,4858.9,Burpenorphine,240
+881,881,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",0,25,Hispanic,0,1,230433,6499.9,Burpenorphine,239
+398,398,0,2,"McKane, Mr. Peter David",1,46,"Black or African American, NH",0,0,28403,0,Methadone,238
+843,843,1,1,"Serepeca, Miss. Augusta",0,30,"White, NH",0,0,113798,3419.97,Burpenorphine,238
+848,848,0,3,"Markoff, Mr. Marin",1,35,"Black or African American, NH",0,0,349213,3899.46,Methadone,237
+858,858,1,1,"Daly, Mr. Peter Denis ",1,51,"White, NH",0,0,113055,4612.75,Methadone,237
+871,871,0,3,"Balkic, Mr. Cerin",1,26,Hispanic,0,0,349248,5679.4,Methadone,237
+484,484,1,3,"Turkula, Mrs. (Hedwig)",0,63,"White, NH",0,0,4134,774.1,Methadone,236
+403,403,0,3,"Jussila, Miss. Mari Aina",0,21,"White, NH",1,0,4137,0,Burpenorphine,236
+420,420,0,3,"Van Impe, Miss. Catharina",0,21,"Black or African American, NH",0,2,345773,0,Burpenorphine,236
+750,750,0,3,"Connaghton, Mr. Michael",1,31,"White, NH",0,0,335097,1981.06,Burpenorphine,236
+508,508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",1,NA,"Black or African American, NH",0,0,111427,979.91,Methadone,236
+400,400,1,2,"Trout, Mrs. William H (Jessie L)",0,28,"White, NH",0,0,240929,0,Burpenorphine,235
+213,213,0,3,"Perkin, Mr. John Henry",1,22,"White, NH",0,0,A/5 21174,0,Methadone,235
+583,583,0,2,"Downton, Mr. William James",1,54,"Black or African American, NH",0,0,28403,1046.88,Methadone,235
+254,254,0,3,"Lobb, Mr. William Arthur",1,30,Hispanic,1,0,A/5. 3336,0,Methadone,235
+839,839,1,3,"Chip, Mr. Chang",1,32,"White, NH",0,0,1601,3163.52,Burpenorphine,234
+890,890,1,1,"Behr, Mr. Karl Howell",1,26,"White, NH",0,0,111369,7238.34,Burpenorphine,234
+201,201,0,3,"Vande Walle, Mr. Nestor Cyriel",1,28,"Native Hawaiian or Pacific Islander, NH",0,0,345770,0,Burpenorphine,233
+391,391,1,1,"Carter, Mr. William Ernest",1,36,"White, NH",1,2,113760,0,Burpenorphine,233
+846,846,0,3,"Abbing, Mr. Anthony",1,42,Hispanic,0,0,C.A. 5547,3590.71,Methadone,233
+730,730,0,3,"Ilmakangas, Miss. Pieta Sofia",0,25,"White, NH",1,0,STON/O2. 3101271,1956.74,Methadone,233
+509,509,0,3,"Olsen, Mr. Henry Margido",1,28,"White, NH",0,0,C 4001,980,Methadone,231
+327,327,0,3,"Nysveen, Mr. Johan Hansen",1,61,"White, NH",0,0,345364,0,Methadone,231
+416,416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",0,NA,"Black or African American, NH",0,0,343095,0,Methadone,230
+780,780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",0,43,Hispanic,0,1,24160,2018.52,Methadone,230
+84,84,0,1,"Carrau, Mr. Francisco M",1,28,"White, NH",0,0,113059,0,Burpenorphine,230
+234,234,1,3,"Asplund, Miss. Lillian Gertrud",0,67,"Black or African American, NH",4,2,347077,0,Burpenorphine,230
+822,822,1,3,"Lulic, Mr. Nikola",1,27,"Black or African American, NH",0,0,315098,2633.15,Methadone,229
+304,304,1,2,"Keane, Miss. Nora A",0,NA,"White, NH",0,0,226593,0,Methadone,228
+434,434,0,3,"Kallio, Mr. Nikolai Erland",1,31,"White, NH",0,0,STON/O 2. 3101274,0,Burpenorphine,228
+26,26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",0,38,"Black or African American, NH",1,5,347077,0,Methadone,228
+701,701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",0,26,Hispanic,1,0,PC 17757,1523.59,Methadone,227
+24,24,1,1,"Sloper, Mr. William Thompson",1,28,Hispanic,0,0,113788,0,Burpenorphine,227
+412,412,0,3,"Hart, Mr. Henry",1,NA,"White, NH",0,0,394140,0,Burpenorphine,227
+191,191,1,2,"Pinsky, Mrs. (Rosa)",0,32,"Black or African American, NH",0,0,234604,0,Methadone,226
+569,569,0,3,"Doharr, Mr. Tannous",1,NA,"White, NH",0,0,2686,1034.28,Methadone,226
+349,349,1,3,"Coutts, Master. William Loch ""William""",1,51,"White, NH",1,1,C.A. 37671,0,Burpenorphine,226
+709,709,1,1,"Cleaver, Miss. Alice",0,22,"White, NH",0,0,113781,1532.52,Burpenorphine,225
+776,776,0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",1,18,"White, NH",0,0,347078,2013.53,Burpenorphine,225
+515,515,0,3,"Coleff, Mr. Satio",1,24,"White, NH",0,0,349209,985.68,Methadone,225
+208,208,1,3,"Albimona, Mr. Nassef Cassem",1,26,Hispanic,0,0,2699,0,Methadone,224
+501,501,0,3,"Calic, Mr. Petar",1,28,"White, NH",0,0,315086,932.2,Burpenorphine,224
+609,609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",0,22,"White, NH",1,2,SC/Paris 2123,1070.28,Burpenorphine,224
+160,160,0,3,"Sage, Master. Thomas Henry",1,NA,"White, NH",8,2,CA. 2343,0,Burpenorphine,223
+770,770,0,3,"Gronnestad, Mr. Daniel Danielsen",1,32,"White, NH",0,0,8471,2006.03,Burpenorphine,223
+684,684,0,3,"Goodwin, Mr. Charles Edward",1,19,Hispanic,5,2,CA 2144,1504.6,Methadone,223
+570,570,1,3,"Jonsson, Mr. Carl",1,32,"White, NH",0,0,350417,1035.18,Methadone,223
+640,640,0,3,"Thorneycroft, Mr. Percival",1,NA,Hispanic,1,0,376564,1098.18,Methadone,222
+198,198,0,3,"Olsen, Mr. Karl Siegwart Andreas",1,42,"Multiracial - Unspecified, NH",0,1,4579,0,Burpenorphine,222
+717,717,1,1,"Endres, Miss. Caroline Louise",0,38,Hispanic,0,0,PC 17757,1541.46,Methadone,222
+728,728,1,3,"Mannion, Miss. Margareth",0,NA,Hispanic,0,0,36866,1954.01,Methadone,222
+488,488,0,1,"Kent, Mr. Edward Austin",1,58,Hispanic,0,0,11771,811.3,Methadone,221
+676,676,0,3,"Edvardsson, Mr. Gustaf Hjalmar",1,18,Hispanic,0,0,349912,1495.66,Burpenorphine,221
+465,465,0,3,"Maisner, Mr. Simon",1,NA,Hispanic,0,0,A/S 2816,597.4,Methadone,221
+456,456,1,3,"Jalsevac, Mr. Ivan",1,29,Hispanic,0,0,349240,512,Methadone,219
+445,445,1,3,"Johannesen-Bratthammer, Mr. Bernt",1,NA,Hispanic,0,0,65306,0,Burpenorphine,219
+670,670,1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",0,NA,Hispanic,1,0,19996,1488.96,Burpenorphine,219
+705,705,0,3,"Hansen, Mr. Henrik Juul",1,26,"White, NH",1,0,350025,1528.06,Burpenorphine,219
+446,446,1,1,"Dodge, Master. Washington",1,51,Hispanic,0,2,33638,0,Methadone,219
+187,187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",0,NA,"White, NH",1,0,370365,0,Methadone,219
+571,571,1,2,"Harris, Mr. George",1,62,"White, NH",0,0,S.W./PP 752,1036.08,Methadone,219
+653,653,0,3,"Kalvik, Mr. Johannes Halvorsen",1,21,Hispanic,0,0,8475,1469.97,Burpenorphine,218
+757,757,0,3,"Carlsson, Mr. August Sigfrid",1,28,"White, NH",0,0,350042,1989.8,Burpenorphine,218
+341,341,1,2,"Navratil, Master. Edmond Roger",1,45,"Asian, NH",1,1,230080,0,Methadone,217
+58,58,0,3,"Novel, Mr. Mansouer",1,28.5,"White, NH",0,0,2697,0,Burpenorphine,217
+734,734,0,2,"Berriman, Mr. William John",1,23,Hispanic,0,0,28425,1961.08,Burpenorphine,216
+793,793,0,3,"Sage, Miss. Stella Anna",0,NA,Hispanic,8,2,CA. 2343,2034.76,Burpenorphine,216
+646,646,1,1,"Harper, Mr. Henry Sleeper",1,48,"Black or African American, NH",1,0,PC 17572,1103.58,Methadone,216
+840,840,1,1,"Marechal, Mr. Pierre",1,NA,"White, NH",0,0,11774,3180.27,Burpenorphine,215
+422,422,0,3,"Charters, Mr. David",1,21,Hispanic,0,0,A/5. 13032,0,Methadone,214
+886,886,0,3,"Rice, Mrs. William (Margaret Norton)",0,39,Hispanic,0,5,382652,6910.15,Methadone,214
+99,99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",0,34,"White, NH",0,1,231919,0,Burpenorphine,214
+872,872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",0,47,"White, NH",1,1,11751,5761.45,Burpenorphine,214
+882,882,0,3,"Markun, Mr. Johann",1,33,Hispanic,0,0,349257,6581.95,Burpenorphine,214
+531,531,1,2,"Quick, Miss. Phyllis May",0,25,Hispanic,1,1,26360,1000.08,Methadone,213
+524,524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",0,44,"White, NH",0,1,111361,993.78,Burpenorphine,213
+30,30,0,3,"Todoroff, Mr. Lalio",1,NA,"White, NH",0,0,349216,0,Burpenorphine,212
+50,50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",0,21,"Black or African American, NH",1,0,349237,0,Burpenorphine,212
+364,364,0,3,"Asim, Mr. Adola",1,35,"White, NH",0,0,SOTON/O.Q. 3101310,0,Burpenorphine,212
+761,761,0,3,"Garfirth, Mr. John",1,NA,Hispanic,0,0,358585,1994.8,Burpenorphine,212
+856,856,1,3,"Aks, Mrs. Sam (Leah Rosen)",0,29,Hispanic,0,1,392091,4448.65,Methadone,212
+486,486,0,3,"Lefebre, Miss. Jeannie",0,NA,Hispanic,3,1,4133,792.7,Methadone,211
+477,477,0,2,"Renouf, Mr. Peter Henry",1,34,"White, NH",1,0,31027,709,Methadone,211
+469,469,0,3,"Scanlan, Mr. James",1,NA,"White, NH",0,0,36209,634.6,Methadone,211
+431,431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",1,28,"Black or African American, NH",0,0,110564,0,Burpenorphine,210
+495,495,0,3,"Stanley, Mr. Edward Roland",1,21,"White, NH",0,0,A/4 45380,876.4,Burpenorphine,209
+62,62,1,1,"Icard, Miss. Amelie",0,38,"White, NH",0,0,113572,0,Burpenorphine,207
+444,444,1,2,"Reynaldo, Ms. Encarnacion",0,28,Hispanic,0,0,230434,0,Burpenorphine,207
+661,661,1,1,"Frauenthal, Dr. Henry William",1,50,Hispanic,2,0,PC 17611,1478.91,Burpenorphine,207
+152,152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",0,19,"White, NH",1,0,113776,0,Burpenorphine,206
+801,801,0,2,"Ponesell, Mr. Martin",1,34,"White, NH",0,0,250647,2445.42,Burpenorphine,206
+667,667,0,2,"Butler, Mr. Reginald Fenton",1,25,"White, NH",0,0,234686,1485.61,Methadone,206
+319,319,1,1,"Wick, Miss. Mary Natalie",0,31,Hispanic,0,2,36928,0,Methadone,206
+562,562,0,3,"Sivic, Mr. Husein",1,40,"Black or African American, NH",0,0,349251,1027.98,Methadone,205
+542,542,0,3,"Andersson, Miss. Ingeborg Constanzia",0,53,Hispanic,4,2,347082,1009.98,Methadone,205
+615,615,0,3,"Brocklebank, Mr. William Alfred",1,35,"White, NH",0,0,364512,1075.68,Burpenorphine,205
+821,821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",0,52,Hispanic,1,1,12749,2623.38,Burpenorphine,205
+31,31,0,1,"Uruchurtu, Don. Manuel E",1,40,"White, NH",0,0,PC 17601,0,Burpenorphine,204
+753,753,0,3,"Vande Velde, Mr. Johannes Joseph",1,33,"White, NH",0,0,345780,1984.8,Burpenorphine,204
+229,229,0,2,"Fahlstrom, Mr. Arne Jonas",1,59,Hispanic,0,0,236171,0,Methadone,203
+216,216,1,1,"Newell, Miss. Madeleine",0,31,"Multiracial - Unspecified, NH",1,0,35273,0,Burpenorphine,203
+718,718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",0,27,"White, NH",0,0,34218,1542.58,Burpenorphine,203
+633,633,1,1,"Stahelin-Maeglin, Dr. Max",1,32,"Black or African American, NH",0,0,13214,1091.88,Methadone,202
+517,517,1,2,"Lemore, Mrs. (Amelia Milley)",0,34,"White, NH",0,0,C.A. 34260,987.48,Burpenorphine,202
+790,790,0,1,"Guggenheim, Mr. Benjamin",1,46,"White, NH",0,0,PC 17593,2031.01,Burpenorphine,202
+276,276,1,1,"Andrews, Miss. Kornelia Theodosia",0,63,Hispanic,1,0,13502,0,Methadone,202
+33,33,1,3,"Glynn, Miss. Mary Agatha",0,NA,Hispanic,0,0,335677,0,Methadone,202
+498,498,0,3,"Shellard, Mr. Frederick William",1,NA,"White, NH",0,0,C.A. 6212,904.3,Burpenorphine,201
+494,494,0,1,"Artagaveytia, Mr. Ramon",1,71,"White, NH",0,0,PC 17609,867.1,Methadone,201
+374,374,0,1,"Ringhini, Mr. Sante",1,22,"White, NH",0,0,PC 17760,0,Methadone,200
+104,104,0,3,"Johansson, Mr. Gustaf Joel",1,33,"White, NH",0,0,7540,0,Burpenorphine,199
+742,742,0,1,"Cavendish, Mr. Tyrell William",1,36,"White, NH",1,0,19877,1971.07,Burpenorphine,198
+787,787,1,3,"Sjoblom, Miss. Anna Sofia",0,55,Hispanic,0,0,3101265,2027.27,Methadone,198
+245,245,0,3,"Attalah, Mr. Sleiman",1,30,Hispanic,0,0,2694,0,Methadone,197
+828,828,1,2,"Mallet, Master. Andre",1,35,"White, NH",0,2,S.C./PARIS 2079,2981.16,Methadone,197
+613,613,1,3,"Murphy, Miss. Margaret Jane",0,NA,Hispanic,1,0,367230,1073.88,Methadone,196
+194,194,1,2,"Navratil, Master. Michel M",1,18,"White, NH",1,1,230080,0,Burpenorphine,196
+813,813,0,2,"Slemen, Mr. Richard James",1,35,"White, NH",0,0,28206,2545.27,Burpenorphine,196
+406,406,0,2,"Gale, Mr. Shadrach",1,34,Hispanic,1,0,28664,0,Methadone,196
+363,363,0,3,"Barbara, Mrs. (Catherine David)",0,45,Hispanic,0,1,2691,0,Methadone,196
+179,179,0,2,"Hale, Mr. Reginald",1,30,"White, NH",0,0,250653,0,Methadone,195
+253,253,0,1,"Stead, Mr. William Thomas",1,62,"Black or African American, NH",0,0,113514,0,Burpenorphine,195
+673,673,0,2,"Mitchell, Mr. Henry Michael",1,70,"Asian, NH",0,0,C.A. 24580,1492.31,Burpenorphine,195
+855,855,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",0,44,"White, NH",1,0,244252,4366.6,Methadone,195
+726,726,0,3,"Oreskovic, Mr. Luka",1,20,"White, NH",0,0,315094,1551.51,Burpenorphine,194
+236,236,0,3,"Harknett, Miss. Alice Phoebe",0,NA,"White, NH",0,0,W./C. 6609,0,Burpenorphine,193
+325,325,0,3,"Sage, Mr. George John Jr",1,NA,"White, NH",8,2,CA. 2343,0,Burpenorphine,193
+71,71,0,2,"Jenkin, Mr. Stephen Curnow",1,32,"White, NH",0,0,C.A. 33111,0,Burpenorphine,192
+854,854,1,1,"Lines, Miss. Mary Conover",0,32,Hispanic,0,1,PC 17592,4284.56,Burpenorphine,192
+800,800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",0,30,"White, NH",1,1,345773,2401.76,Methadone,191
+12,12,1,1,"Bonnell, Miss. Elizabeth",0,58,"White, NH",0,0,113783,0,Burpenorphine,191
+22,22,1,2,"Beesley, Mr. Lawrence",1,34,"White, NH",0,0,248698,0,Burpenorphine,191
+452,452,0,3,"Hagland, Mr. Ingvald Olai Olsen",1,NA,"White, NH",1,0,65303,0,Burpenorphine,191
+608,608,1,1,"Daniel, Mr. Robert Williams",1,27,"White, NH",0,0,113804,1069.38,Burpenorphine,191
+745,745,1,3,"Stranden, Mr. Juho",1,31,"White, NH",0,0,STON/O 2. 3101288,1974.81,Burpenorphine,191
+193,193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",0,19,Hispanic,1,0,350046,0,Methadone,191
+17,17,0,3,"Rice, Master. Eugene",1,18,"Asian, NH",4,1,382652,0,Burpenorphine,190
+286,286,0,3,"Stankovic, Mr. Ivan",1,33,Hispanic,0,0,349239,0,Methadone,188
+544,544,1,2,"Beane, Mr. Edward",1,32,"White, NH",1,0,2908,1011.78,Burpenorphine,188
+224,224,0,3,"Nenkoff, Mr. Christo",1,NA,"Black or African American, NH",0,0,349234,0,Methadone,188
+496,496,0,3,"Yousseff, Mr. Gerious",1,NA,"Black or African American, NH",0,0,2627,885.7,Methadone,187
+11,11,1,3,"Sandstrom, Miss. Marguerite Rut",0,19,Hispanic,1,1,PP 9549,0,Burpenorphine,187
+606,606,0,3,"Lindell, Mr. Edvard Bengtsson",1,36,Hispanic,1,0,349910,1067.58,Burpenorphine,187
+352,352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",1,NA,Hispanic,0,0,113510,0,Methadone,186
+75,75,1,3,"Bing, Mr. Lee",1,32,Hispanic,0,0,1601,0,Methadone,186
+70,70,0,3,"Kink, Mr. Vincenz",1,26,"White, NH",2,0,315151,0,Burpenorphine,186
+161,161,0,3,"Cribb, Mr. John Hatfield",1,44,"Asian, NH",0,1,371362,0,Burpenorphine,186
+343,343,0,2,"Collander, Mr. Erik Gustaf",1,28,"White, NH",0,0,248740,0,Methadone,185
+68,68,0,3,"Crease, Mr. Ernest James",1,19,"White, NH",0,0,S.P. 3464,0,Burpenorphine,185
+492,492,0,3,"Windelov, Mr. Einar",1,21,"Native Hawaiian or Pacific Islander, NH",0,0,SOTON/OQ 3101317,848.5,Burpenorphine,185
+119,119,0,1,"Baxter, Mr. Quigg Edmond",1,18,"White, NH",0,1,PC 17558,0,Burpenorphine,184
+257,257,1,1,"Thorne, Mrs. Gertrude Maybelle",0,NA,"Black or African American, NH",0,0,PC 17585,0,Burpenorphine,184
+507,507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",0,33,"White, NH",0,2,26360,979,Burpenorphine,184
+857,857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",0,45,"Black or African American, NH",1,1,36928,4530.7,Methadone,184
+877,877,0,3,"Gustafsson, Mr. Alfred Ossian",1,20,"White, NH",0,0,7534,6171.7,Methadone,183
+178,178,0,1,"Isham, Miss. Ann Elizabeth",0,50,"Black or African American, NH",0,0,PC 17595,0,Burpenorphine,183
+543,543,0,3,"Andersson, Miss. Sigrid Elisabeth",0,61,"White, NH",4,2,347082,1010.88,Burpenorphine,183
+190,190,0,3,"Turcin, Mr. Stjepan",1,36,Hispanic,0,0,349247,0,Methadone,183
+128,128,1,3,"Madsen, Mr. Fridtjof Arne",1,19,Hispanic,0,0,C 17369,0,Burpenorphine,182
+639,639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",0,41,"White, NH",0,5,3101295,1097.28,Burpenorphine,182
+563,563,0,2,"Norman, Mr. Robert Douglas",1,28,Hispanic,0,0,218629,1028.88,Burpenorphine,181
+483,483,0,3,"Rouse, Mr. Richard Henry",1,50,Hispanic,0,0,A/5 3594,764.8,Methadone,180
+771,771,0,3,"Lievens, Mr. Rene Aime",1,24,"Black or African American, NH",0,0,345781,2007.28,Methadone,180
+763,763,1,3,"Barah, Mr. Hanna Assi",1,20,"Black or African American, NH",0,0,2663,1997.29,Burpenorphine,180
+246,246,0,1,"Minahan, Dr. William Edward",1,44,"White, NH",2,0,19928,0,Burpenorphine,179
+674,674,1,2,"Wilhelms, Mr. Charles",1,31,Hispanic,0,0,244270,1493.43,Burpenorphine,179
+291,291,1,1,"Barber, Miss. Ellen ""Nellie""",0,26,"White, NH",0,0,19877,0,Burpenorphine,178
+371,371,1,1,"Harder, Mr. George Achilles",1,25,"White, NH",1,0,11765,0,Burpenorphine,178
+626,626,0,1,"Sutton, Mr. Frederick",1,61,"White, NH",0,0,36963,1085.58,Burpenorphine,178
+783,783,0,1,"Long, Mr. Milton Clyde",1,29,"White, NH",0,0,113501,2022.27,Burpenorphine,178
+791,791,0,3,"Keane, Mr. Andrew ""Andy""",1,NA,"White, NH",0,0,12460,2032.26,Methadone,178
+118,118,0,2,"Turpin, Mr. William John Robert",1,18,"White, NH",1,0,11668,0,Burpenorphine,177
+611,611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",0,39,Hispanic,1,5,347082,1072.08,Methadone,177
+135,135,0,2,"Sobey, Mr. Samuel James Hayden",1,24,Hispanic,0,0,C.A. 29178,0,Methadone,177
+367,367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",0,60,Hispanic,1,0,110813,0,Methadone,176
+873,873,0,1,"Carlsson, Mr. Frans Olof",1,33,Hispanic,0,0,695,5843.5,Methadone,176
+316,316,1,3,"Nilsson, Miss. Helmina Josefina",0,26,Hispanic,0,0,347470,0,Burpenorphine,176
+303,303,0,3,"Johnson, Mr. William Cahoone Jr",1,19,Hispanic,0,0,LINE,0,Methadone,176
+294,294,0,3,"Haas, Miss. Aloisia",0,24,Hispanic,0,0,349236,0,Burpenorphine,175
+418,418,1,2,"Silven, Miss. Lyyli Karoliina",0,19,"White, NH",0,2,250652,0,Methadone,174
+587,587,0,2,"Jarvis, Mr. John Denzil",1,47,Hispanic,0,0,237565,1050.48,Burpenorphine,174
+663,663,0,1,"Colley, Mr. Edward Pomeroy",1,47,Hispanic,0,0,5727,1481.14,Burpenorphine,174
+521,521,1,1,"Perreault, Miss. Anne",0,30,"White, NH",0,0,12749,991.08,Burpenorphine,173
+559,559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",0,39,"White, NH",1,1,110413,1025.28,Burpenorphine,173
+602,602,0,3,"Slabenoff, Mr. Petco",1,NA,"White, NH",0,0,349214,1063.98,Burpenorphine,173
+768,768,0,3,"Mangan, Miss. Mary",0,30.5,"White, NH",0,0,364850,2003.54,Burpenorphine,173
+451,451,0,2,"West, Mr. Edwy Arthur",1,36,"Black or African American, NH",1,2,C.A. 34651,0,Methadone,173
+527,527,1,2,"Ridsdale, Miss. Lucy",0,50,Hispanic,0,0,W./C. 14258,996.48,Methadone,172
+80,80,1,3,"Dowdell, Miss. Elizabeth",0,30,"White, NH",0,0,364516,0,Burpenorphine,172
+685,685,0,2,"Brown, Mr. Thomas William Solomon",1,60,"White, NH",1,1,29750,1505.72,Burpenorphine,172
+834,834,0,3,"Augustsson, Mr. Albert",1,23,Hispanic,0,0,347468,3079.76,Methadone,171
+250,250,0,2,"Carter, Rev. Ernest Courtenay",1,54,"White, NH",1,0,244252,0,Burpenorphine,171
+580,580,1,3,"Jussila, Mr. Eiriik",1,32,Hispanic,0,0,STON/O 2. 3101286,1044.18,Methadone,171
+864,864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",0,NA,"White, NH",8,2,CA. 2343,5105.05,Burpenorphine,171
+413,413,1,1,"Minahan, Miss. Daisy E",0,33,Hispanic,1,0,19928,0,Methadone,171
+130,130,0,3,"Ekstrom, Mr. Johan",1,19,Hispanic,0,0,347061,0,Methadone,171
+40,40,1,3,"Nicola-Yarred, Miss. Jamila",0,19,"White, NH",1,0,2651,0,Burpenorphine,170
+284,284,1,3,"Dorking, Mr. Edward Arthur",1,19,"White, NH",0,0,A/5. 10482,0,Burpenorphine,170
+536,536,1,2,"Hart, Miss. Eva Miriam",0,42,Hispanic,0,2,F.C.C. 13529,1004.58,Methadone,169
+347,347,1,2,"Smith, Miss. Marion Elsie",0,40,"Black or African American, NH",0,0,31418,0,Methadone,169
+136,136,0,2,"Richard, Mr. Emile",1,23,"White, NH",0,0,SC/PARIS 2133,0,Burpenorphine,169
+272,272,1,3,"Tornquist, Mr. William Henry",1,25,"Black or African American, NH",0,0,LINE,0,Methadone,169
+209,209,1,3,"Carr, Miss. Helen ""Ellen""",0,33,"White, NH",0,0,367231,0,Burpenorphine,168
+153,153,0,3,"Meo, Mr. Alfonzo",1,18,Hispanic,0,0,A.5. 11206,0,Methadone,168
+592,592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",0,52,Hispanic,1,0,36947,1054.98,Methadone,167
+150,150,0,2,"Byles, Rev. Thomas Roussel Davids",1,18,Hispanic,0,0,244310,0,Burpenorphine,167
+642,642,1,1,"Sagesser, Mlle. Emma",0,24,"White, NH",0,0,PC 17477,1099.98,Burpenorphine,167
+869,869,0,3,"van Melkebeke, Mr. Philemon",1,NA,Hispanic,0,0,345777,5515.3,Burpenorphine,167
+874,874,0,3,"Vander Cruyssen, Mr. Victor",1,47,"White, NH",0,0,345765,5925.55,Methadone,167
+681,681,0,3,"Peters, Miss. Katie",0,NA,"Black or African American, NH",0,0,330935,1501.25,Methadone,165
+378,378,0,1,"Widener, Mr. Harry Elkins",1,27,"White, NH",0,2,113503,0,Burpenorphine,165
+463,463,0,1,"Gee, Mr. Arthur H",1,47,Hispanic,0,0,111320,578.8,Burpenorphine,165
+573,573,1,1,"Flynn, Mr. John Irwin (""Irving"")",1,36,"White, NH",0,0,PC 17474,1037.88,Burpenorphine,165
+678,678,1,3,"Turja, Miss. Anna Sofia",0,18,Hispanic,0,0,4138,1497.9,Burpenorphine,165
+581,581,1,2,"Christy, Miss. Julie Rachel",0,25,"White, NH",1,1,237789,1045.08,Methadone,165
+189,189,0,3,"Bourke, Mr. John",1,40,"White, NH",1,1,364849,0,Burpenorphine,164
+373,373,0,3,"Beavan, Mr. William Thomas",1,19,"White, NH",0,0,323951,0,Methadone,164
+538,538,1,1,"LeRoy, Miss. Bertha",0,30,Hispanic,0,0,PC 17761,1006.38,Methadone,164
+172,172,0,3,"Rice, Master. Arthur",1,54,"Black or African American, NH",4,1,382652,0,Burpenorphine,163
+623,623,1,3,"Nakid, Mr. Sahid",1,20,"White, NH",1,1,2653,1082.88,Burpenorphine,163
+831,831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",0,42,Hispanic,1,0,2659,3029.51,Methadone,163
+575,575,0,3,"Rush, Mr. Alfred George John",1,54,"White, NH",0,0,A/4. 20589,1039.68,Burpenorphine,162
+156,156,0,1,"Williams, Mr. Charles Duane",1,22,"White, NH",0,1,PC 17597,0,Burpenorphine,161
+449,449,1,3,"Baclini, Miss. Marie Catherine",0,76,"White, NH",2,1,2666,0,Burpenorphine,161
+168,168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",0,45,Hispanic,1,4,347088,0,Burpenorphine,160
+192,192,0,2,"Carbines, Mr. William",1,19,Hispanic,0,0,28424,0,Methadone,160
+357,357,1,1,"Bowerman, Miss. Elsie Edith",0,22,"White, NH",0,1,113505,0,Burpenorphine,160
+186,186,0,1,"Rood, Mr. Hugh Roscoe",1,NA,"White, NH",0,0,113767,0,Methadone,160
+165,165,0,3,"Panula, Master. Eino Viljami",1,79,Hispanic,4,1,3101295,0,Burpenorphine,159
+520,520,0,3,"Pavlovic, Mr. Stefo",1,32,Hispanic,0,0,349242,990.18,Burpenorphine,159
+744,744,0,3,"McNamee, Mr. Neal",1,24,"White, NH",1,0,376566,1973.56,Burpenorphine,159
+748,748,1,2,"Sinkkonen, Miss. Anna",0,30,Hispanic,0,0,250648,1978.56,Burpenorphine,159
+572,572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",0,53,"White, NH",2,0,11769,1036.98,Burpenorphine,158
+836,836,1,1,"Compton, Miss. Sara Rebecca",0,39,"White, NH",1,1,PC 17756,3113.27,Burpenorphine,158
+506,506,0,1,"Penasco y Castellana, Mr. Victor de Satode",1,18,"White, NH",1,0,PC 17758,977,Methadone,157
+634,634,0,1,"Parr, Mr. William Henry Marsh",1,NA,"White, NH",0,0,112052,1092.78,Burpenorphine,157
+737,737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",0,48,"White, NH",1,3,W./C. 6608,1964.82,Burpenorphine,157
+875,875,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",0,28,"White, NH",1,0,P/PP 3381,6007.6,Burpenorphine,156
+891,891,0,3,"Dooley, Mr. Patrick",1,32,Hispanic,0,0,370376,700320.39,Methadone,155
+205,205,1,3,"Cohen, Mr. Gurshon ""Gus""",1,18,"White, NH",0,0,A/5 3540,0,Burpenorphine,155
+485,485,1,1,"Bishop, Mr. Dickinson H",1,25,"White, NH",1,0,11967,783.4,Burpenorphine,155
+664,664,0,3,"Coleff, Mr. Peju",1,36,Hispanic,0,0,349210,1482.26,Burpenorphine,155
+292,292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",0,19,"White, NH",1,0,11967,0,Burpenorphine,154
+686,686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",1,25,"Black or African American, NH",1,2,SC/Paris 2123,1506.83,Burpenorphine,153
+883,883,0,3,"Dahlberg, Miss. Gerda Ulrika",0,22,"Black or African American, NH",0,0,7552,6664,Burpenorphine,153
+19,19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",0,31,Hispanic,1,0,345763,0,Burpenorphine,152
+540,540,1,1,"Frolicher, Miss. Hedwig Margaritha",0,22,"White, NH",0,2,13568,1008.18,Burpenorphine,152
+558,558,0,1,"Robbins, Mr. Victor",1,NA,"White, NH",0,0,PC 17757,1024.38,Burpenorphine,152
+862,862,0,2,"Giles, Mr. Frederick Edward",1,21,"Black or African American, NH",1,0,28134,4940.95,Burpenorphine,152
+425,425,0,3,"Rosblom, Mr. Viktor Richard",1,18,Hispanic,1,1,370129,0,Methadone,151
+94,94,0,3,"Dean, Mr. Bertram Frank",1,26,"White, NH",1,2,C.A. 2315,0,Burpenorphine,151
+358,358,0,2,"Funk, Miss. Annie Clemmer",0,38,Hispanic,0,0,237671,0,Burpenorphine,151
+732,732,0,3,"Hassan, Mr. Houssein G N",1,61,"Black or African American, NH",0,0,2699,1959.41,Burpenorphine,149
+845,845,0,3,"Culumovic, Mr. Jeso",1,64,"White, NH",0,0,315090,3543.79,Burpenorphine,149
+29,29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",0,NA,Hispanic,0,0,330959,0,Methadone,148
+654,654,1,3,"O'Leary, Miss. Hanora ""Norah""",0,NA,"White, NH",0,0,330919,1471.09,Burpenorphine,147
+778,778,1,3,"Emanuel, Miss. Virginia Ethel",0,26,"White, NH",0,0,364516,2016.03,Burpenorphine,147
+867,867,1,2,"Duran y More, Miss. Asuncion",0,27,"White, NH",1,0,SC/PARIS 2149,5351.2,Burpenorphine,147
+210,210,1,1,"Blank, Mr. Henry",1,40,Hispanic,0,0,112277,0,Methadone,146
+437,437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",0,21,"Black or African American, NH",2,2,W./C. 6608,0,Burpenorphine,146
+289,289,1,2,"Hosono, Mr. Masabumi",1,42,Hispanic,0,0,237798,0,Burpenorphine,145
+409,409,0,3,"Birkeland, Mr. Hans Martin Monsen",1,21,"White, NH",0,0,312992,0,Burpenorphine,145
+417,417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",0,34,"White, NH",1,1,28220,0,Methadone,144
+98,98,1,1,"Greenfield, Mr. William Bertram",1,23,Hispanic,0,1,PC 17759,0,Burpenorphine,144
+453,453,0,1,"Foreman, Mr. Benjamin Laventall",1,30,"White, NH",0,0,113051,488,Burpenorphine,144
+459,459,1,2,"Toomey, Miss. Ellen",0,50,"White, NH",0,0,F.C.C. 13531,541.6,Burpenorphine,144
+526,526,0,3,"Farrell, Mr. James",1,40.5,"White, NH",0,0,367232,995.58,Burpenorphine,144
+727,727,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",0,30,"White, NH",3,0,31027,1552.63,Burpenorphine,144
+876,876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",0,23,"White, NH",0,0,2667,6089.65,Burpenorphine,144
+339,339,1,3,"Dahl, Mr. Karl Edwart",1,45,"Black or African American, NH",0,0,7598,0,Methadone,143
+207,207,0,3,"Backstrom, Mr. Karl Alfred",1,32,"White, NH",1,0,3101278,0,Burpenorphine,143
+248,248,1,2,"Hamalainen, Mrs. William (Anna)",0,24,"White, NH",0,2,250649,0,Burpenorphine,143
+361,361,0,3,"Skoog, Mr. Wilhelm",1,40,"White, NH",1,4,347088,0,Burpenorphine,143
+723,723,0,2,"Gillespie, Mr. William Henry",1,34,Hispanic,0,0,12233,1548.16,Methadone,142
+44,44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",0,18,"Black or African American, NH",1,2,SC/Paris 2123,0,Burpenorphine,141
+312,312,1,1,"Ryerson, Miss. Emily Borie",0,18,Hispanic,2,2,PC 17608,0,Burpenorphine,141
+619,619,1,2,"Becker, Miss. Marion Louise",0,37,"White, NH",2,1,230136,1079.28,Burpenorphine,141
+320,320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",0,40,"Black or African American, NH",1,1,16966,0,Burpenorphine,140
+767,767,0,1,"Brewe, Dr. Arthur Jackson",1,NA,"White, NH",0,0,112379,2002.29,Burpenorphine,140
+315,315,0,2,"Hart, Mr. Benjamin",1,43,"Black or African American, NH",1,1,F.C.C. 13529,0,Methadone,139
+775,775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",0,54,"White, NH",1,3,29105,2012.28,Methadone,139
+741,741,1,1,"Hawksford, Mr. Walter James",1,NA,"White, NH",0,0,16988,1969.82,Methadone,139
+847,847,0,3,"Sage, Mr. Douglas Bullen",1,NA,Hispanic,8,2,CA. 2343,3841.46,Burpenorphine,138
+489,489,0,3,"Somerton, Mr. Francis William",1,30,Hispanic,0,0,A.5. 18509,820.6,Burpenorphine,137
+706,706,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",1,39,Hispanic,0,0,250655,1529.17,Burpenorphine,137
+127,127,0,3,"McMahon, Mr. Martin",1,18,"White, NH",0,0,370372,0,Burpenorphine,136
+346,346,1,2,"Brown, Miss. Amelia ""Mildred""",0,24,"White, NH",0,0,248733,0,Burpenorphine,136
+502,502,0,3,"Canavan, Miss. Mary",0,21,Hispanic,0,0,364846,941.5,Burpenorphine,136
+844,844,0,3,"Lemberopolous, Mr. Peter L",1,34.5,"White, NH",0,0,2683,3467.42,Burpenorphine,136
+116,116,0,3,"Pekoniemi, Mr. Edvard",1,21,Hispanic,0,0,STON/O 2. 3101294,0,Methadone,136
+100,100,0,2,"Kantor, Mr. Sinai",1,34,"White, NH",1,0,244367,0,Methadone,135
+231,231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",0,35,"Black or African American, NH",1,0,36973,0,Burpenorphine,135
+164,164,0,3,"Calic, Mr. Jovo",1,51,"White, NH",0,0,315093,0,Burpenorphine,134
+440,440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",1,31,"White, NH",0,0,C.A. 18723,0,Burpenorphine,134
+795,795,0,3,"Dantcheff, Mr. Ristiu",1,25,"White, NH",0,0,349203,2037.26,Burpenorphine,134
+811,811,0,3,"Alexander, Mr. William",1,26,"White, NH",0,0,3474,2525.74,Burpenorphine,134
+829,829,1,3,"McCormack, Mr. Thomas Joseph",1,NA,"White, NH",0,0,367228,2993.46,Burpenorphine,134
+432,432,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",0,NA,"Asian, NH",1,0,376564,0,Burpenorphine,133
+251,251,0,3,"Reed, Mr. James George",1,NA,Hispanic,0,0,362316,0,Methadone,133
+290,290,1,3,"Connolly, Miss. Kate",0,22,Hispanic,0,0,370373,0,Methadone,132
+700,700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",1,42,"White, NH",0,0,348121,1522.47,Burpenorphine,132
+271,271,0,1,"Cairns, Mr. Alexander",1,NA,"White, NH",0,0,113798,0,Burpenorphine,132
+733,733,0,2,"Knight, Mr. Robert J",1,NA,"White, NH",0,0,239855,1959.76,Burpenorphine,132
+868,868,0,1,"Roebling, Mr. Washington Augustus II",1,31,"White, NH",0,0,PC 17590,5433.25,Burpenorphine,132
+65,65,0,1,"Stewart, Mr. Albert A",1,NA,Hispanic,0,0,PC 17605,0,Methadone,131
+550,550,1,2,"Davies, Master. John Morgan Jr",1,74,"White, NH",1,1,C.A. 33112,1017.18,Burpenorphine,130
+719,719,0,3,"McEvoy, Mr. Michael",1,NA,"White, NH",0,0,36568,1543.69,Burpenorphine,130
+724,724,0,2,"Hodges, Mr. Henry Price",1,50,"Black or African American, NH",0,0,250643,1549.28,Burpenorphine,130
+375,375,0,3,"Palsson, Miss. Stina Viola",0,80,"Multiracial - Unspecified, NH",3,1,349909,0,Burpenorphine,129
+458,458,1,1,"Kenyon, Mrs. Frederick R (Marion)",0,NA,"White, NH",1,0,17464,532.3,Burpenorphine,128
+797,797,1,1,"Leader, Dr. Alice (Farnham)",0,49,"Black or African American, NH",0,0,17465,2039.75,Burpenorphine,128
+672,672,0,1,"Davidson, Mr. Thornton",1,31,Hispanic,1,0,F.C. 12750,1491.2,Methadone,128
+803,803,1,1,"Carter, Master. William Thornton II",1,56,"White, NH",1,2,113760,2446.7,Methadone,127
+180,180,0,3,"Leonard, Mr. Lionel",1,36,"White, NH",0,0,LINE,0,Burpenorphine,127
+443,443,0,3,"Petterson, Mr. Johan Emil",1,25,Hispanic,1,0,347076,0,Burpenorphine,126
+649,649,0,3,"Willey, Mr. Edward",1,NA,"White, NH",0,0,S.O./P.P. 751,1465.13,Burpenorphine,126
+163,163,0,3,"Bengtsson, Mr. John Viktor",1,26,Hispanic,0,0,347068,0,Methadone,125
+351,351,0,3,"Odahl, Mr. Nils Martin",1,23,"Black or African American, NH",0,0,7267,0,Burpenorphine,125
+97,97,0,1,"Goldschmidt, Mr. George B",1,71,Hispanic,0,0,PC 17754,0,Burpenorphine,124
+333,333,0,1,"Graham, Mr. George Edward",1,38,"White, NH",0,1,PC 17582,0,Burpenorphine,124
+103,103,0,1,"White, Mr. Richard Frasar",1,21,Hispanic,0,1,35281,0,Methadone,124
+83,83,1,3,"McDermott, Miss. Brigdet Delia",0,NA,"White, NH",0,0,330932,0,Burpenorphine,123
+162,162,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",0,40,"White, NH",0,0,C.A. 33595,0,Burpenorphine,123
+630,630,0,3,"O'Connell, Mr. Patrick D",1,NA,"White, NH",0,0,334912,1089.18,Burpenorphine,123
+295,295,0,3,"Mineff, Mr. Ivan",1,24,"White, NH",0,0,349233,0,Burpenorphine,121
+301,301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",0,NA,"White, NH",0,0,9234,0,Burpenorphine,121
+404,404,0,3,"Hakkarainen, Mr. Pekka Pietari",1,28,"White, NH",1,0,STON/O2. 3101279,0,Burpenorphine,121
+474,474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",0,23,"White, NH",0,0,SC/AH Basle 541,681.1,Burpenorphine,121
+95,95,0,3,"Coxon, Mr. Daniel",1,59,Hispanic,0,0,364500,0,Burpenorphine,120
+859,859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",0,24,"White, NH",0,3,2666,4694.8,Burpenorphine,120
+604,604,0,3,"Torber, Mr. Ernst William",1,44,Hispanic,0,0,364511,1065.78,Methadone,120
+323,323,1,2,"Slayter, Miss. Hilda Mary",0,30,"Black or African American, NH",0,0,234818,0,Methadone,120
+120,120,0,3,"Andersson, Miss. Ellis Anna Maria",0,19,Hispanic,4,2,347082,0,Burpenorphine,118
+370,370,1,1,"Aubart, Mme. Leontine Pauline",0,24,"White, NH",0,0,PC 17477,0,Burpenorphine,118
+603,603,0,1,"Harrington, Mr. Charles H",1,NA,"White, NH",0,0,113796,1064.88,Burpenorphine,118
+77,77,0,3,"Staneff, Mr. Ivan",1,NA,"White, NH",0,0,349208,0,Burpenorphine,117
+713,713,1,1,"Taylor, Mr. Elmer Zebley",1,48,"White, NH",1,0,19996,1536.99,Burpenorphine,117
+725,725,1,1,"Chambers, Mr. Norman Campbell",1,27,"White, NH",1,0,113806,1550.4,Burpenorphine,117
+769,769,0,3,"Moran, Mr. Daniel J",1,NA,Hispanic,1,0,371110,2004.79,Burpenorphine,117
+78,78,0,3,"Moutal, Mr. Rahamin Haim",1,NA,"White, NH",0,0,374746,0,Burpenorphine,116
+101,101,0,3,"Petranec, Miss. Matilda",0,28,"White, NH",0,0,349245,0,Burpenorphine,116
+720,720,0,3,"Johnson, Mr. Malkolm Joackim",1,33,Hispanic,0,0,347062,1544.81,Methadone,116
+415,415,1,3,"Sundman, Mr. Johan Julian",1,44,Hispanic,0,0,STON/O 2. 3101269,0,Methadone,115
+772,772,0,3,"Jensen, Mr. Niels Peder",1,48,"White, NH",0,0,350047,2008.53,Burpenorphine,115
+110,110,1,3,"Moran, Miss. Bertha",0,NA,"White, NH",1,0,371110,0,Methadone,114
+82,82,1,3,"Sheerlinck, Mr. Jan Baptist",1,29,Hispanic,0,0,345779,0,Burpenorphine,114
+600,600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",1,49,"White, NH",1,0,PC 17485,1062.18,Burpenorphine,114
+648,648,1,1,"Simonius-Blumer, Col. Oberst Alfons",1,56,Hispanic,0,0,13213,1464.51,Burpenorphine,114
+835,835,0,3,"Allum, Mr. Owen George",1,63,Hispanic,0,0,2223,3096.52,Burpenorphine,114
+779,779,0,3,"Kilgannon, Mr. Thomas J",1,NA,"White, NH",0,0,36865,2017.27,Methadone,114
+252,252,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",0,29,"White, NH",1,1,347054,0,Burpenorphine,113
+282,282,0,3,"Olsson, Mr. Nils Johan Goransson",1,28,Hispanic,0,0,347464,0,Burpenorphine,113
+784,784,0,3,"Johnston, Mr. Andrew G",1,NA,"White, NH",1,2,W./C. 6607,2023.52,Burpenorphine,113
+812,812,0,3,"Lester, Mr. James",1,39,"White, NH",0,0,A/4 48871,2535.51,Burpenorphine,113
+329,329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",0,31,Hispanic,1,1,363291,0,Burpenorphine,112
+785,785,0,3,"Ali, Mr. William",1,25,Hispanic,0,0,SOTON/O.Q. 3101312,2024.77,Burpenorphine,112
+850,850,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",0,NA,"White, NH",1,0,17453,3913.75,Burpenorphine,112
+555,555,1,3,"Ohman, Miss. Velin",0,22,Hispanic,0,0,347085,1021.68,Methadone,112
+56,56,1,1,"Woolner, Mr. Hugh",1,NA,"White, NH",0,0,19947,0,Burpenorphine,111
+330,330,1,1,"Hippach, Miss. Jean Gertrude",0,22,"White, NH",0,1,111361,0,Burpenorphine,111
+510,510,1,3,"Lang, Mr. Fang",1,26,"White, NH",0,0,1601,981,Burpenorphine,111
+610,610,1,1,"Shutes, Miss. Elizabeth W",0,40,Hispanic,0,0,PC 17582,1071.18,Burpenorphine,111
+427,427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",0,28,"White, NH",1,0,2003,0,Burpenorphine,110
+577,577,1,2,"Garside, Miss. Ethel",0,34,Hispanic,0,0,243880,1041.48,Burpenorphine,110
+695,695,0,1,"Weir, Col. John",1,60,"White, NH",0,0,113800,1516.89,Burpenorphine,109
+34,34,0,2,"Wheadon, Mr. Edward H",1,66,Hispanic,0,0,C.A. 24579,0,Burpenorphine,108
+504,504,0,3,"Laitinen, Miss. Kristina Sofia",0,37,"Black or African American, NH",0,0,4135,960.1,Burpenorphine,108
+711,711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",0,24,"White, NH",0,0,PC 17482,1534.76,Burpenorphine,108
+131,131,0,3,"Drazenoic, Mr. Jozef",1,18,"White, NH",0,0,349241,0,Burpenorphine,107
+57,57,1,2,"Rugg, Miss. Emily",0,21,"Black or African American, NH",0,0,C.A. 31026,0,Methadone,106
+9,9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",0,27,Hispanic,0,2,347742,0,Methadone,106
+411,411,0,3,"Sdycoff, Mr. Todor",1,NA,Hispanic,0,0,349222,0,Methadone,104
+500,500,0,3,"Svensson, Mr. Olof",1,24,Hispanic,0,0,350035,922.9,Burpenorphine,104
+35,35,0,1,"Meyer, Mr. Edgar Joseph",1,28,"White, NH",1,0,PC 17604,0,Burpenorphine,104
+479,479,0,3,"Karlsson, Mr. Nils August",1,22,"White, NH",0,0,350060,727.6,Burpenorphine,104
+622,622,1,1,"Kimball, Mr. Edwin Nelson Jr",1,42,"White, NH",1,0,11753,1081.98,Burpenorphine,104
+707,707,1,2,"Kelly, Mrs. Florence ""Fannie""",0,45,"White, NH",0,0,223596,1530.29,Methadone,104
+519,519,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",0,36,"White, NH",1,0,226875,989.28,Methadone,104
+88,88,0,3,"Slocovski, Mr. Selman Francis",1,NA,"Black or African American, NH",0,0,SOTON/OQ 392086,0,Burpenorphine,103
+635,635,0,3,"Skoog, Miss. Mabel",0,26,Hispanic,3,2,347088,1093.68,Methadone,103
+614,614,0,3,"Horgan, Mr. John",1,NA,"White, NH",0,0,370377,1074.78,Burpenorphine,102
+631,631,1,1,"Barkworth, Mr. Algernon Henry Wilson",1,80,"White, NH",0,0,27042,1090.08,Burpenorphine,102
+338,338,1,1,"Burns, Miss. Elizabeth Margaret",0,41,Hispanic,0,0,16966,0,Burpenorphine,101
+694,694,0,3,"Saad, Mr. Khalil",1,25,"White, NH",0,0,2672,1515.77,Burpenorphine,101
+377,377,1,3,"Landergren, Miss. Aurora Adelia",0,22,Hispanic,0,0,C 7077,0,Methadone,101
+766,766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",0,51,Hispanic,1,0,13502,2001.04,Methadone,100
+121,121,0,2,"Hickman, Mr. Stanley George",1,18,"White, NH",2,0,S.O.C. 14879,0,Burpenorphine,98
+802,802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",0,31,"White, NH",1,1,C.A. 31921,2445.51,Burpenorphine,97
+105,105,0,3,"Gustafsson, Mr. Anders Vilhelm",1,37,"Black or African American, NH",2,0,3101276,0,Burpenorphine,97
+36,36,0,1,"Holverson, Mr. Alexander Oskar",1,42,"White, NH",1,0,113789,0,Burpenorphine,96
+497,497,1,1,"Eustis, Miss. Elizabeth Mussey",0,54,"White, NH",1,0,36947,895,Burpenorphine,96
+650,650,1,3,"Stanley, Miss. Amy Zillah Elsie",0,23,"White, NH",0,0,CA. 2314,1467,Burpenorphine,96
+832,832,1,2,"Richards, Master. George Sibley",1,56,"White, NH",1,1,29106,3046.26,Methadone,95
+820,820,0,3,"Skoog, Master. Karl Thorsten",1,18,"White, NH",3,2,347088,2613.62,Burpenorphine,95
+227,227,1,2,"Mellors, Mr. William John",1,19,"White, NH",0,0,SW/PP 751,0,Burpenorphine,95
+448,448,1,1,"Seward, Mr. Frederic Kimber",1,34,Hispanic,0,0,113794,0,Burpenorphine,95
+789,789,1,3,"Dean, Master. Bertram Vere",1,72,Hispanic,1,2,C.A. 2315,2029.76,Burpenorphine,94
+884,884,0,2,"Banfield, Mr. Frederick James",1,28,"White, NH",0,0,C.A./SOTON 34068,6746.05,Methadone,94
+386,386,0,2,"Davies, Mr. Charles Henry",1,53,"Black or African American, NH",0,0,S.O.C. 14879,0,Burpenorphine,93
+464,464,0,2,"Milling, Mr. Jacob Christian",1,48,"White, NH",0,0,234360,588.1,Burpenorphine,93
+126,126,1,3,"Nicola-Yarred, Master. Elias",1,18,Hispanic,1,0,2651,0,Methadone,92
+518,518,0,3,"Ryan, Mr. Patrick",1,NA,"White, NH",0,0,371110,988.38,Burpenorphine,92
+221,221,1,3,"Sunderland, Mr. Victor Francis",1,46,Hispanic,0,0,SOTON/OQ 392089,0,Methadone,91
+470,470,1,3,"Baclini, Miss. Helene Barbara",0,55,"White, NH",2,1,2666,643.9,Burpenorphine,91
+702,702,1,1,"Silverthorne, Mr. Spencer Victor",1,35,"White, NH",0,0,PC 17475,1524.71,Methadone,90
+27,27,0,3,"Emir, Mr. Farred Chehab",1,NA,"White, NH",0,0,2631,0,Burpenorphine,89
+273,273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",0,41,"Black or African American, NH",0,1,250644,0,Methadone,88
+328,328,1,2,"Ball, Mrs. (Ada E Hall)",0,36,Hispanic,0,0,28551,0,Burpenorphine,88
+123,123,0,2,"Nasser, Mr. Nicholas",1,19,"White, NH",1,0,237736,0,Methadone,87
+140,140,0,1,"Giglio, Mr. Victor",1,21,"Multiracial - Unspecified, NH",0,0,PC 17593,0,Burpenorphine,87
+657,657,0,3,"Radeff, Mr. Alexander",1,NA,Hispanic,0,0,349223,1474.44,Methadone,87
+442,442,0,3,"Hampe, Mr. Leon",1,20,"White, NH",0,0,345769,0,Burpenorphine,86
+362,362,0,2,"del Carlo, Mr. Sebastiano",1,29,Hispanic,1,0,SC/PARIS 2167,0,Methadone,86
+553,553,0,3,"O'Brien, Mr. Timothy",1,NA,"White, NH",0,0,330979,1019.88,Burpenorphine,84
+63,63,0,1,"Harris, Mr. Henry Birkhardt",1,45,Hispanic,1,0,36973,0,Burpenorphine,83
+218,218,0,2,"Jacobsohn, Mr. Sidney Samuel",1,42,Hispanic,1,0,243847,0,Burpenorphine,83
+462,462,0,3,"Morley, Mr. William",1,34,"White, NH",0,0,364506,569.5,Burpenorphine,83
+433,433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",0,42,"White, NH",1,0,SC/AH 3085,0,Burpenorphine,82
+61,61,0,3,"Sirayanian, Mr. Orsen",1,22,"White, NH",0,0,2669,0,Burpenorphine,80
+206,206,0,3,"Strom, Miss. Telma Matilda",0,29,"White, NH",0,1,347054,0,Burpenorphine,80
+297,297,0,3,"Hanna, Mr. Mansour",1,23.5,"White, NH",0,0,2693,0,Burpenorphine,80
+91,91,0,3,"Christmann, Mr. Emil",1,29,Hispanic,0,0,343276,0,Methadone,80
+133,133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",0,26,"White, NH",1,0,A/5. 3337,0,Burpenorphine,79
+113,113,0,3,"Barton, Mr. David John",1,22,"White, NH",0,0,324669,0,Burpenorphine,77
+335,335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",0,NA,"Multiracial - Unspecified, NH",1,0,PC 17611,0,Burpenorphine,76
+534,534,1,3,"Peter, Mrs. Catherine (Catherine Rizk)",0,NA,"White, NH",0,2,2668,1002.78,Burpenorphine,76
+627,627,0,2,"Kirkland, Rev. Charles Leonard",1,57,"White, NH",0,0,219533,1086.48,Burpenorphine,76
+735,735,0,2,"Troupiansky, Mr. Moses Aaron",1,23,"Black or African American, NH",0,0,233639,1962.32,Burpenorphine,76
+53,53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",0,49,Hispanic,1,0,PC 17572,0,Burpenorphine,75
+260,260,1,2,"Parrish, Mrs. (Lutie Davis)",0,50,"White, NH",0,1,230433,0,Burpenorphine,74
+277,277,0,3,"Lindblom, Miss. Augusta Charlotta",0,45,"White, NH",0,0,347073,0,Burpenorphine,73
+54,54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",0,29,"White, NH",1,0,2926,0,Burpenorphine,72
+243,243,0,2,"Coleridge, Mr. Reginald Charles",1,29,"White, NH",0,0,W./C. 14263,0,Burpenorphine,72
+278,278,0,2,"Parkes, Mr. Francis ""Frank""",1,NA,"White, NH",0,0,239853,0,Burpenorphine,70
+144,144,0,3,"Burke, Mr. Jeremiah",1,19,Hispanic,0,0,365222,0,Burpenorphine,69
+345,345,0,2,"Fox, Mr. Stanley Hubert",1,36,"White, NH",0,0,229236,0,Burpenorphine,69
+658,658,0,3,"Bourke, Mrs. John (Catherine)",0,32,Hispanic,1,1,364849,1475.56,Burpenorphine,68
+825,825,0,3,"Panula, Master. Urho Abraham",1,24,"White, NH",4,1,3101295,2662.44,Burpenorphine,68
+596,596,0,3,"Van Impe, Mr. Jean Baptiste",1,36,Hispanic,1,1,345773,1058.58,Methadone,67
+605,605,1,1,"Homer, Mr. Harry (""Mr E Haven"")",1,35,"White, NH",0,0,111426,1066.68,Burpenorphine,66
+698,698,1,3,"Mullens, Miss. Katherine ""Katie""",0,NA,Hispanic,0,0,35852,1520.24,Burpenorphine,64
+762,762,0,3,"Nirva, Mr. Iisakki Antino Aijo",1,41,"White, NH",0,0,SOTON/O2 3101272,1996.04,Burpenorphine,64
+817,817,0,3,"Heininen, Miss. Wendla Maria",0,23,"White, NH",0,0,STON/O2. 3101290,2584.33,Burpenorphine,64
+675,675,0,2,"Watson, Mr. Ennis Hastings",1,NA,"White, NH",0,0,239856,1494.55,Burpenorphine,63
+878,878,0,3,"Petroff, Mr. Nedelio",1,19,"White, NH",0,0,349212,6253.75,Burpenorphine,63
+394,394,1,1,"Newell, Miss. Marjorie",0,23,"White, NH",1,0,35273,0,Methadone,61
+532,532,0,3,"Toufik, Mr. Nakli",1,NA,"White, NH",0,0,2641,1000.98,Burpenorphine,61
+585,585,0,3,"Paulner, Mr. Uscher",1,NA,"White, NH",0,0,3411,1048.68,Burpenorphine,61
+314,314,0,3,"Hendekovic, Mr. Ignjac",1,28,"White, NH",0,0,349243,0,Burpenorphine,59
+376,376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",0,NA,Hispanic,1,0,PC 17604,0,Burpenorphine,56
+167,167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",0,NA,"White, NH",0,1,113505,0,Burpenorphine,55
+579,579,0,3,"Caram, Mrs. Joseph (Maria Elias)",0,NA,"White, NH",1,0,2689,1043.28,Burpenorphine,54
+16,16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",0,55,Hispanic,0,0,248706,0,Burpenorphine,53
+242,242,1,3,"Murphy, Miss. Katherine ""Kate""",0,NA,"White, NH",1,0,367230,0,Burpenorphine,53
+841,841,0,3,"Alhomaki, Mr. Ilmari Rudolf",1,20,Hispanic,0,0,SOTON/O2 3101287,3197.02,Burpenorphine,53
+662,662,0,3,"Badt, Mr. Mohamed",1,40,"White, NH",0,0,2623,1480.03,Burpenorphine,51
+814,814,0,3,"Andersson, Miss. Ebba Iris Alfrida",0,26,"White, NH",4,2,347082,2555.03,Burpenorphine,49
+541,541,1,1,"Crosby, Miss. Harriet R",0,36,"White, NH",0,2,WE/P 5735,1009.08,Burpenorphine,48
+682,682,1,1,"Hassab, Mr. Hammad",1,27,"White, NH",0,0,PC 17572,1502.37,Burpenorphine,42
+3,3,1,3,"Heikkinen, Miss. Laina",0,26,"White, NH",0,0,STON/O2. 3101282,0,Methadone,40
+729,729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",1,25,"White, NH",1,0,236853,1954.21,Burpenorphine,40
+751,751,1,2,"Wells, Miss. Joan",0,61,"Multiracial - Unspecified, NH",1,1,29103,1982.31,Burpenorphine,40
+114,114,0,3,"Jussila, Miss. Katriina",0,20,"White, NH",1,0,4136,0,Burpenorphine,39
+381,381,1,1,"Bidois, Miss. Rosalie",0,42,Hispanic,0,0,PC 17757,0,Burpenorphine,39
+154,154,0,3,"van Billiard, Mr. Austin Blyler",1,19,Hispanic,0,2,A/5. 851,0,Methadone,38
+568,568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",0,29,Hispanic,0,4,349909,1033.38,Methadone,38
+13,13,0,3,"Saundercock, Mr. William Henry",1,20,"White, NH",0,0,A/5. 2151,0,Burpenorphine,38
+590,590,0,3,"Murdlin, Mr. Joseph",1,NA,"White, NH",0,0,A./5. 3235,1053.18,Burpenorphine,38
+799,799,0,3,"Ibrahim Shawah, Mr. Yousseff",1,30,"Black or African American, NH",0,0,2685,2243.16,Methadone,37
+644,644,1,3,"Foo, Mr. Choong",1,NA,Hispanic,0,0,1601,1101.78,Burpenorphine,37
+171,171,0,1,"Van der hoef, Mr. Wyckoff",1,61,"White, NH",0,0,111240,0,Burpenorphine,37
+348,348,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",0,NA,Hispanic,1,0,386525,0,Burpenorphine,36
+692,692,1,3,"Karun, Miss. Manca",0,31,"White, NH",0,1,349256,1513.54,Burpenorphine,36
+76,76,0,3,"Moen, Mr. Sigurd Hansen",1,25,Hispanic,0,0,348123,0,Methadone,35
+219,219,1,1,"Bazzani, Miss. Albina",0,32,"White, NH",0,0,11813,0,Burpenorphine,35
+589,589,0,3,"Gilinski, Mr. Eliezer",1,22,"White, NH",0,0,14973,1052.28,Burpenorphine,35
+743,743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",0,21,"White, NH",2,2,PC 17608,1972.32,Burpenorphine,34
+149,149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",1,21,"Black or African American, NH",0,2,230080,0,Methadone,31
+264,264,0,1,"Harrison, Mr. William",1,40,Hispanic,0,0,112059,0,Methadone,30
+342,342,1,1,"Fortune, Miss. Alice Elizabeth",0,24,"White, NH",3,2,19950,0,Methadone,29
+796,796,0,2,"Otter, Mr. Richard",1,39,Hispanic,0,0,28213,2038.51,Methadone,29
+659,659,0,2,"Eitemiller, Mr. George Floyd",1,23,"White, NH",0,0,29751,1476.67,Burpenorphine,27
+461,461,1,1,"Anderson, Mr. Harry",1,48,"White, NH",0,0,19952,560.2,Methadone,26
+525,525,0,3,"Kassem, Mr. Fared",1,NA,"White, NH",0,0,2700,994.68,Burpenorphine,26
+109,109,0,3,"Rekic, Mr. Tido",1,38,"White, NH",0,0,349249,0,Burpenorphine,24
+25,25,0,3,"Palsson, Miss. Torborg Danira",0,18,Hispanic,3,1,349909,0,Burpenorphine,23
+379,379,0,3,"Betros, Mr. Tannous",1,20,Hispanic,0,0,2648,0,Burpenorphine,23
+457,457,0,1,"Millet, Mr. Francis Davis",1,65,"White, NH",0,0,13509,523,Burpenorphine,19
+143,143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",0,18,"Multiracial - Unspecified, NH",1,0,STON/O2. 3101279,0,Burpenorphine,19
+42,42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",0,27,"White, NH",1,0,11668,0,Burpenorphine,18
+169,169,0,1,"Baumann, Mr. John D",1,NA,"Black or African American, NH",0,0,PC 17318,0,Burpenorphine,17
+758,758,0,2,"Bailey, Mr. Percy Andrew",1,36,"Multiracial - Unspecified, NH",0,0,29108,1991.05,Burpenorphine,15
+85,85,1,2,"Ilett, Miss. Bertha",0,26,"Black or African American, NH",0,0,SO/C 14885,0,Burpenorphine,13
+129,129,1,3,"Peter, Miss. Anna",0,18,"Black or African American, NH",1,1,2668,0,Methadone,12
+340,340,0,1,"Blackwell, Mr. Stephen Weart",1,45,"White, NH",0,0,113784,0,Burpenorphine,12
+237,237,0,2,"Hold, Mr. Stephen",1,44,"White, NH",1,0,26707,0,Burpenorphine,10
+146,146,0,2,"Nicholls, Mr. Joseph Charles",1,18,"Black or African American, NH",1,1,C.A. 33112,0,Burpenorphine,4
+472,472,0,3,"Cacic, Mr. Luka",1,38,Hispanic,0,0,315089,662.5,Burpenorphine,3
+652,652,1,2,"Doling, Miss. Elsie",0,18,Hispanic,0,1,231919,1468.86,Methadone,2
+620,620,0,2,"Gavey, Mr. Lawrence",1,26,"Black or African American, NH",0,0,31028,1080.18,Burpenorphine,2
+1,1,0,3,"Braund, Mr. Owen Harris",1,22,"American Indian or Alaska Native, NH",1,0,A/5 21171,0,Burpenorphine,2
+655,655,0,3,"Hegarty, Miss. Hanora ""Nora""",0,26,"White, NH",0,0,365226,1472.21,Burpenorphine,1
