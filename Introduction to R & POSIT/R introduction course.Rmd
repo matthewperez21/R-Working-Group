@@ -1,0 +1,754 @@
+---
+title: "Introduction to R for BWTX.1"
+author: "Matthew Perez"
+date: "October 26, 2022"
+output:
+  html_document:
+    keep_md: no
+    toc: yes
+  html_notebook:
+    toc: yes
+  word_document:
+    toc: yes
+  pdf_document:
+    highlight: tango
+    toc: yes
+---
+
+# Welcome to R and RStudio
+
+What is R?
+
+R is a free, open source language and environment that facilitates data manipulation, analysis and graphical display.  
+
+What should you use R for? 
+
+Everything. No seriously, everything. Toss out SPSS, SAS, and STATA, because R can do all the descriptive analyses, regression equations, (M)AN(C)OVA, and hierarchical linear modeling you want. No need to buy MPlus, because R has structural equation modeling covered. Don’t bother opening Excel, because merging data sets, cleaning data, identifying important rows or columns, and even updating your gradebook can be done in R. Save money on colored pencils, because R will create whatever plot or graphic you can imagine, even if it’s 3D or interactive or both. R can be used with text processors like LaTeX, so you can integrate your results right into the manuscript itself. Stuck using Microsoft Word because your collaborators like track changes? R will create APA formatted tables, complete with significance stars and horizontal lines and export them as .doc files for your convenience. R can do both frequentist and Bayesian statistics. R can make use of your multi-core processor and run analyses in parallel. Search for a “bit of fun with R” and learn how to make a winking elephant. R can bootstrap, simulate, randomize, resample, multiply, impute, and park your car. Well, R can’t park your car — yet.
+
+On a global scale, R can address many of the challenges of performing reproducible research. A particular study may fail to replicate for a variety of reasons, but one of the simplest being that we often forget exactly what we did to our data to get our results. How did you create scores from your items — averaging, summing, reverse-scoring, or item-response theory? Did you center variable two? Which participants did you exclude and based on what criteria? We often come back to our own data and say, “Wait, what did I do here?” R can remedy these issues because you’re using scripting to perform your analyses. Scripting means you write code, which is later run to manipulate data, perform analyses, and make graphics. In other words, using R involves writing a document that contains everything you did, in the order you did it, as you analyze your data. Theoretically, you can share your code and data with literally anyone in the world, and they can use that code and that data to reproduce your results, statistics, and plots with no extra work or thought on their part. This ability to share your analyses has been augmented by online databases like the Open Science Framework in which you can publicly share your analysis scripts and data from your research projects.
+
+If you're coming to R from SAS, there is no data step. There are no procs. The [SAS and R book](https://www.amazon.com/gp/product/1466584491/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466584491&linkCode=as2&tag=sasandrblog-20) is very useful for going between the two programs.  
+
+If you're coming from SPSS and you've been using the button clicking method, be prepared for a steep learning curve. If you've been writing syntax in SPSS, you're at least used to having to code. There's a good book for SAS and SPSS users by Bob Meunchen at the Univ. of Tennessee [here](https://www.amazon.com/SAS-SPSS-Users-Statistics-Computing/dp/1461406846), which may be of some help.
+
+Instructions to install R:
+
+1. Go to https://www.r-project.org/
+2. Click on the *CRAN* link to the left side of the page
+3. Choose one of the mirrors.
+4. Click on Download R for Windows (if you use windows)
+5. Click on base
+6. Click on Download R 4.2.1 for Windows (Version changes overtime)
+7. Install R as you would install any other program
+
+When you install R, you only have access to base R (Rgui = not good) which will be the software that performs the actual instructions. RStudio is a software that will integrate with base R as an IDE (Integrated Development Environment) to provider improved functionality allowing you a space to write code in one window, see results in another, see file locations and see objects you created all in the same environement while also giving you access to automation tools and debuggers.It can also manage your `git` repositories, run interactive tutorials, and even handle other languages like C++, Python, SQL, HTML and shell scripting.
+
+Instructions to install RStudio:
+
+1. Go to https://www.rstudio.com/
+2. Click on the *Products* tab, then select the *RStudio* option
+3. Click on the *Desktop* link
+4. Click on *DOWNLOAD RSTUDIO DESKTOP* link in the *Open Source Edition* column 
+5. On the following page, click on the *Installer* version for your operating system, and once downloaded, install as you would any other program.
+
+###R file types
+*.R files*
+An R file is a basic script written in  R with the .R extension. R files usually include commands that create objects (functions, lists, values, etc.) and produce visualizations of your computed data.
+
+*.Rproj files*
+An R Project files contains various project options with the .Rproj extenstion. R Projects are often used as a shortcut for opening RStudio projects with its associated files directly from a users filesystem. 
+
+*.Rmd files*
+Rstudio uses Rmarkdown as a markdown formatting language for creating interactive and dynamic formatted documents that contains code chunks of embedded R code, tables, figures and statistical output. **This entire example is written in Rmarkdown!** 
+
+Insert latex equations 
+
+$$y_i \sim Normal (x` \beta, \sigma_2)$$
+or to include output tables directly into a document:
+```{r, echo=F, results='asis'}
+#enter table here
+
+```
+
+without having to make tables in Word or some other program. You can basically do your entire analysis and slideshow or paper write up, including bibliography in Rstudio.
+
+*R Notebooks*
+In recent versions of Rstudio, another kind of document, called a R Notebook has been created. This is nice because, like a Rmarkdown document, R notebooks include code, text and formatted output, but you can also show and hide code chunks throughout the document. 
+
+
+##Getting Help
+
+R offers several free ways to get assistance:
+
+1) If there is a function you want to use, you can pull up the associated help page to be displayed in the help tab in the lower right window with:
+
+`?glm` or `help(glm)`
+
+2) If you need to find a function to do something, try `??`
+
+`??"glm"` or `help.search("glm)`
+
+3) If you want to search among other R users' questions to the R list serve, try `RSiteSearch()`
+
+`RSiteSearch("{generalized linear model}")`
+
+4) If you would like to browse online R manuals for packages and functions in R try out:
+
+`help.start()`
+
+5) If you can't find an answer to your question or solve a problem yourself, ask others either locally or on the internet! R is open source so it has resulting large community of people who have probably had the same questions as you and delivered a solution. 
+
+6) [Stack Exchange](https://stats.stackexchange.com) is a well organized and formatted site for help and discussion about programming. Topics will be tagged with "r" and you can directly search questions you have or you can ask questions through community posts. Just make sure to follow this posting guide (https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example) or you will get some snarky responses. 
+
+7) The R Project maintains a number of subscription-based - [R user email lists](https://www.r-project.org/mail.html) that you can ask questions on, but you should follow this posting guide (https://www.r-project.org/posting-guide.html).
+
+8) Google! No explanation required.
+
+
+#Using R and R Studio
+##RStudio Tour
+
+When you begin an R session you will notice a console panel which is where R executes commands and responses to said commands.RStudio will provide the same console but with additional functionality.
+
+1) Console Panel - the console is the window in the lower left-hand corner of RStudio (when you have a new script open). Like addressed above, the console is where you can enter in commands which will be submitted to the R interpreter for execution. You'll see the classic ">" sign with the blinking cursor.
+
+2) Script editor Panel - the script editor on the top left is a great way to work with a long-term record for your code that you can send to your console for execution. The script editor will have it's own toolbar with multiple "tool buttons" that include options like "Save", "Find and Replace" or "Run"
+
+3) Files/plots/packages/help/viewer Panel - the files/packages/plot pane  on the lower right is used as described.
+
+Files - shows the contents of the current working folder.
+
+Plots - displays the plots the user exuectes in their current session
+
+Packages - shows all of the R packages installed on your computer. Active packages are notated with a check in the check box.
+
+Help - displays help documenation for packages, functions and help related items
+
+4) Environment/History Panel - this will provide you key information for your working space
+
+Environment Panel - The environment panel is in the upper right corner of RStudio. The environment panel will dispaly the current active R objects.The environment panel has it's own tool bar that includes options like "Open", "Save", "Import Dataset", "Clear objects" and "list/grid". 
+
+History Panel - The history panel is also in the upper right corner of RStudio. The history panel will show every line of code exected in your current work session.  
+
+##Staying Organized
+
+Every R session will be associated with a "working directory". Your working directory is a directory that R reads and writes files, stores data files you want to anlayze or stores files you want to save to. When you begin an R session you will begin in your home directory ('C:/Users/yourusername/Documents') 
+
+If you do not know what your default directory path is, you can use `getwd()` to get your working directory:
+```{r}
+getwd()
+```
+
+Alternatively you can manually set which working directory you want to use by calling `setwd()` to set your working directory to a new location.
+```{r, eval=FALSE}
+setwd("C:/Users/perezm27/Documents/R Working Group")
+getwd()
+```
+
+##Packages and Libraries
+
+R uses packages which are collections of R functions, data, and compiled code in a well-defined format, created to add specific functionality to R. Since R is open sourced, there are over 10,000+ user contributed pakcages for you to take advantage of. 
+
+Packages for R can be installed from the CRAN package repository using the install.packages function. This function will download the source code from on the CRAN mirrors and install the package (and any dependencies) locally on your computer.
+
+An example is given below for the ggplot2 package that will be required for some plots we will create later on. Run this code to install ggplot2.
+
+`install.packages("ggplot2")`
+
+With `ggplot2` installed you now have the ability to load the library into your r session. To use the functions within it, type
+
+`library(ggplot2)`
+
+Now you have access to those functions. You don't need to install the package again, unless you update your R software.
+
+You only need to install a package once on your compueter, but you will need to load the library every time you start a new environment.
+
+The pacman package is something you probably want to look into. It will allow you conviniently perform tasks associated with add-on packages.
+
+#R Syntax!
+Below we will go through a simple R session where we introduce some concepts that are important for R.
+
+
+###R as a calculator
+
+In your console try entering 1+1!
+
+you should get a result that looks like
+
+`[1] 2'
+
+The `[1]` is just your row label but you can see it did the math! That's because R is just a big calculator!
+
+
+```{r}
+#addition and subtraction
+3+7
+3-7
+```
+
+```{r}
+#multiplication and division
+3*7
+3/7
+```
+```{r}
+#powers
+3^2
+3^3
+```
+
+You can also do functions - a set of statements organized together to perform a specific task. R has a large number of built-in functions.
+
+
+```{r}
+#common math functions
+log(10)
+exp(5)
+sin(3/7)
+
+print("Hello world!", quote = FALSE)
+```
+
+But users can create their own which is something we will eventually get back to!
+
+```{r}
+#custom functions
+myfun <-function(x){
+  sqrt(x)^x
+}
+myfun(5)
+```
+
+###Variables and objects
+
+R is a object-oriented program which simply means that we assign values to objects. These objects can generally have any name, but some names are reserved for R. For instance you probably wouldn't want to call something 'mean' because there's a 'mean()' function already in R. For instance:
+
+```{r}
+x <- 3 #assign x to 3
+y <- 7 #assign y to 7
+x+y
+x*y
+log(x*y)
+```
+
+Functions like `<-` or `=` are known as assignment operators which allows you to create objects
+
+##vectors
+R thinks everything is a matrix, or a vector, meaning a row or column of numbers, or characters. R is vectorized meaning, you can apply an operation along all elements of a vector without having to write a loop. For example, if I want to multiply a vector of numbers by a constant, in SAS, I could do:
+
+`for (i in 1 to 5)`
+`  x[i]<-y[i]*5`
+`end`
+
+but in R, I can just do:
+```{r}
+x <- c(3, 4, 5, 6, 7) #c() makes a vector
+y<-7
+x*y
+```
+
+
+R is also very good about using vectors, let's say I wanted to find the third element of x:
+```{r}
+x[3]
+#or if I want to test if this element is 10
+x[3]==10
+x[3]!=10
+```
+
+```{r}
+#of is it larger than another number:
+x[3]>3
+#or is any element of the whole vector greater than 3
+x>3
+```
+
+
+If you want to see what's in an object, use `str()`, for `str`ucture
+
+```{r}
+str(x)
+```
+
+and we see that x is numeric, and has those values.
+
+We can also see different characteristics of x
+
+```{r}
+#how long is x?
+length(x)
+#is x numeric?
+is.numeric(x)
+#is x full of characters?
+is.character(x)
+#is any element of x missing?
+is.na(x)
+xc <- c("1","2")
+#now i'll modify x
+x <- c(x, NA) #combine x and a missing value ==NA
+x
+#Now ask if any x's are missing
+is.na(x)
+```
+
+##replacing elements of vectors
+Above, we had a missing value in X, let's say we want to replace it with another value:
+
+```{r}
+x <- ifelse(test = is.na(x)==T, yes = sqrt(7.2), no =  x)
+x
+```
+
+*Note there are also lists which are like vectors excep elements do not all need to have the same data type*
+
+##Dataframes
+
+Traditionally, R organizes variables into data frames, these are like a spreadsheet, rectangular tables. The columns can have names, and the data frame itself can have data of different types. Here we make a short data frame with three columns, two numeric and one character:
+
+```{r}
+mydat <- data.frame(
+  x = c(1,2,3,4,5),
+  y = c(10, 20, 35, 57, 37),
+  group = c("A", "A" ,"A", "B", "B")
+)
+
+#See the size of the dataframe
+dim(mydat)
+length(mydat$x) # $ sign used to denote the individual column
+head(mydat) # gives you the first 6 rows of a given data frame by default
+#Open the dataframe in a viewer and just print it
+View(mydat)
+print(mydat)
+```
+
+*Note that the row would now also be considered a vector. The columns as a whole would all be considered a vector or vector like object.*
+
+Indices in data frames are pairs, specifying row and column numbers. To get the element in row 1, column 1:
+
+``` {r}
+mydat[1,1]
+mydat$x[1]
+```
+
+##Real data
+
+
+CSV files are a good way to store data coming out of a spreadsheet. R can read Excel files, but it digests text files easier. We will be reading an example dataset I had preprepared for this course. 
+
+I can read it directly from my directory by using the `read.csv` function or we can all use the `readr` library to query github:
+
+```{r}
+library(readr)
+client_data <-read_csv(file = "https://raw.githubusercontent.com/mperez/R Working group/Example Dataset.csv")
+#names(prb) #print the column names
+#View(prb) #open it in a viewer
+```
+
+If the file lived on our computer, I could read it in like so:
+*note, please make a folder on your computer so you can store things for this class in a single location!!!! Organization is Key to Success in Graduate School*
+
+```{r}
+client_data <-read_csv("C:/Users/perezm27/Documents/R Working Group/Example Dataset.csv")
+```
+
+Same result.
+
+The `haven` library can read files from other statistical packages easily, so if you have data in Stata, SAS or SPSS, you can read it into R using those functions, for example, the `read_dta()` function reads stata files, `read_sav()` to read spss data files. 
+
+I would not recommend you store data in Excel files for many reasons, but if you do, save the files as a CSV file and use the `read_csv()` function above to read it in.
+
+###Save a file
+Want to save something as a R data file? Use `save()`
+
+```{r}
+save(client_data, file="C:/Users/perezm27/Documents/R Working Group/Example Dataset.Rdata")
+```
+
+If you have an R data file, use `load()` to open it:
+
+```{r}
+load("C:/Users/ozd504/Documents/GitHub/r_courses/prb_2008.Rdata")
+```
+
+or you can save as .csv or .xlsx
+
+``` {r}
+write.csv(client_data, ("C:/Users/perezm27/Documents/R Working Group/Example Dataset2.csv"))
+
+```
+
+
+###Cleaning and preparing dataset
+
+Take a look at our data
+
+``` {r}
+names(client_data)
+str(client_data)
+View(client_data)
+```
+
+Correct data types
+
+``` {r}
+client_data$ABSTINENCE <- factor(client_data$ABSTINENCE)
+client_data$SES <- factor(client_data$SES, order = TRUE, levels = c(3, 2, 1))
+# This is an ordinal variable so we can set order to equal true 
+# and include the argument to have the ascending order (Class 3 < 2 < 1)
+
+```
+
+look at the missingness of our data and omit NA
+``` {r}
+#enter function here to see where we have NA's
+
+client_data <- na.omit(client_data) #use to deal with NA values in age columns
+
+```
+
+
+
+###Descriptive analysis
+
+Let's have a look at some descriptive information about the data:
+```{r}
+#Frequency Table of # of individuals by sex
+table(client_data$SEX)
+#basic summary statistics
+summary(client_data)
+```
+
+From this summary, we see that the mean age is 34. The minimum is 18 and the maximum age is 80.
+
+
+Now, we will cover some basic descriptive statistical analysis. We will describe measures of central tendency and variability and how these are affected by outliers in our data. 
+
+
+
+###Measures of central tendency
+
+We can use graphical methods to describe what data 'look like' in a visual sense, but graphical methods are rarely useful for comparative purposes but it will be referenced later. In order to make comparisons, you need to rely on a numerical summary of data vs. a graphical one (I'm not saying statistical graphics aren't useful, they are!)
+
+Numerical measures tell us a lot about the form of a distribution without resorting to graphical methods. The first kind of summary statistics we will see are those related to the measure of *central tendency*. Measures of central tendency tell us about the central part of the distribution
+
+
+##Mean and median
+Here is an example from the client_data dataset. R has a few different ways to get a variable from a dataset. One way is the `$` notation, used like `dataset$variable`
+
+```{r}
+mean(client_data$AGE)
+```
+
+#Measures of variation
+
+One typical set of descriptive statistics that is very frequently used is the so-called **five number summary** and it consists of : the Minimum, lower quartile, median, upper quartile and maximum values. This is often useful if the data are not symmetric or skewed. This is what you get when  you use the `fivenum()` function, or we can include the mean if we use the `summary()` function.
+
+```{r}
+?fivenum
+fivenum(client_data$MONTHLY_INCOME) 
+summary(client_data$MONTHLY_INCOME)
+```
+
+###Variance
+To calculate the variance and standard deviation of a variable:
+
+```{r}
+
+var(client_data$MONTHLY_INCOME)
+sd(client_data$MONTHLY_INCOME)
+sqrt(var(client_data$MONTHLY_INCOME))#same as using sd()
+```
+
+###Skew and kurtosis
+
+``` {r}
+library(psych)
+skew(client_data$MONTHLY_INCOME)
+kurtosi(client_data$AGE)
+hist(client_data$AGE)
+```
+
+###Standard scores
+
+``` {r}
+pnorm(3.6)
+
+```
+
+###Correlation
+
+###Strength and direction of a relationship
+
+###The correlation coefficient
+
+###Linear Regression
+
+##dplyr
+
+The `dplyr` library is a portion of a suite of libraries known as the [*tidyverse*](https://www.tidyverse.org), which are oriented towards reproducible, intelligible coding for data science. There are too many things within the tidyverse to cover them all here, but I will introduce you to two aspects: 
+1) dplyr verbs and pipes
+2) the ggplot2 library for producing graphs
+
+###Basic tidyverse verbs
+
+The dplyr library has many verbs (action words) that are used to do various things. The neat thing about dplyr is it allows you to tell R what data source you want to do something to at the top of a *pipe*, then you can execute as many verbs as you need within the pipe without referring to the dataset by name again.
+
+For instance, in the client_data dataset, what if we wanted to calculate the median income for adult men who have an abstinence status of no? Sounds easy, right? In base R we would have to do some subsetting of the data first (to limit our analysis to adults, men and women, abstinence status = "no"), then use another function to calculate the median income for men and women. 
+
+dplyr allows us to do this in one fell swoop of code. We will use a few verbs, notably `filter()` to subset our cases, based on the conditions we describe, `mutate()` to recode, `group_by()` to let R know that the summaries we want will be for specific groups and `summarise()` to calculate the numeric summaries we want.
+
+###Pipes
+The second thing we need to know about are *pipes*. Pipes can be used to chain together verbs so that the code executes on the same dataset in sequence. They are identified by a `%>%` at the end of each verb statement. Here's our example in action:
+
+
+```{r dplyr, echo=TRUE}
+library(dplyr)
+
+client_data %>%
+  filter(AGE > 18, ABSTINENCE == 0) %>%
+  group_by(SEX) %>%
+  summarise(med_income = median(MONTHLY_INCOME))
+```
+
+and we see a difference of about `enter value here` between men and women in the dataset.
+
+###Basic ggplot()
+Let's say that we want to compare the distributions of income from the above examples graphically. Since the `ggplot2` library is part of the tidyverse, it integrates directly with dplyr and we can do plots within pipes too.
+
+In generally, `ggplot()` has a few core statements.
+
+1) ggplot() statement - This tells R the data and the basic aesthetic that will be plotted, think x and y axis of a graph
+2) Define the geometries you want to use to plot your data, there are many types of plots you can do, some are more appropriate for certain types of data
+3) Plot annotations - Titles, labels etc.
+
+``` {r}
+library(ggplot2)
+ggplot(client_data, aes(x = ABSTINENCE)) + #aes() specifies the x and y axes variables we want to use
+  geom_bar(width = 0.5, fill = "coral") + #used for bar graphs
+  geom_text(stat='count', aes(label=stat(count)), vjust=-0.5) + #used to label the bars
+  theme_classic() #built-in color schemes
+
+```
+
+``` {r}
+ggplot(client_data, aes(x = ABSTINENCE, fill = SEX)) +
+  geom_bar(position = position_dodge()) + #position_dodge() is to show the bars side by side
+  geom_text(stat='count',
+            aes(label=stat(count)), 
+            position = position_dodge(width = 1), vjust = -0.5) +
+  theme_classic()
+```
+``` {r}
+ggplot(client_data, aes(x = ABSTINENCE, fill = SES)) +
+  geom_bar(position = position_dodge()) +
+  geom_text(stat = 'count', 
+            aes(label = stat(count)), 
+            position = position_dodge(width = 1), 
+            vjust=-0.5)+
+  theme_classic()
+```
+``` {r}
+ggplot(client_data, aes(x = AGE)) +
+  geom_density(fill = 'coral')
+
+```
+
+``` {r}
+client_data$Discretized.age = cut(client_data$AGE, #Discretize age to plot abstinence with cut() to specify the cuts in our vector
+                                  c(0, 10, 20, 30, 40, 50, 60, 70, 80, 100)) 
+
+ggplot(client_data, aes(x = Discretized.age, fill = ABSTINENCE)) +
+  geom_bar(position = position_dodge()) +
+  geom_text(stat = 'count', aes(label = stat(count)), 
+            position = position_dodge(width = 1), vjust = -0.5) +
+  theme_classic()
+
+client_data$Discretized.age = NULL
+
+```
+
+#Stem and leaf plots/Box and Whisker plots
+Another visualization method is the stem and leaf plot, or box and whisker plot. This is useful when you have a continuous variable you want to display the distribution of across levels of a categorical variable.  This is basically a graphical display of Tukey's 5 number summary of data. 
+
+```{r}
+ggplot(client_data, mapping = aes(x = SEX, y = AGE))+
+  geom_boxplot()+
+  ggtitle(label = "Distribution of monthly income by age", subtitle = "All clients")
+```
+You can flip the axes, by adding `coord_flip()`
+
+```{r}
+ggplot(client_data, mapping = aes(x = SEX, y = AGE)) +
+  geom_boxplot() +
+  ggtitle(label = "Distribution of monthly income by age", subtitle = "All clients") +
+  coord_flip()
+```
+
+###X-Y Scatter plots
+These are useful for finding relationships among two or more continuous variables. `ggplot()` can really make these pretty.
+
+Here are a few riffs using the client_data:
+
+```{r}
+ggplot(data = client_data, mapping= aes(x = AGE, y = MONTHLY_INCOME))+
+  geom_point()+
+  ggtitle(label = "Relationship between Age and Monthly Income", subtitle = "All Clients")+
+  xlab(label = "SEX")+
+  ylab(label="Monthly Income")
+```
+
+
+Now we color varies by continent
+```{r}
+ggplot(data = client_data, mapping= aes(x = AGE, y = MONTHLY_INCOME, color = SEX))+
+  geom_point()+
+  ggtitle(label = "Relationship between Age and Monthly Income", subtitle = "All clients")+
+  xlab(label = "Age")+
+  ylab(label="Monthly Income")
+```
+
+Now we vary the shape of the point by continent
+```{r}
+#shape varies by continent
+ggplot(data = client_data, mapping = aes(x = AGE, y = MONTHLY_INCOME, shape = SEX))+
+  geom_point()+
+  ggtitle(label = "Relationship between Age and Monthly Income", subtitle = "All clients")+
+  xlab(label = "Age")+
+  ylab(label="Monthly Income")
+```
+
+##Facet plots
+Facet plots are nice, if you want to create a plot separately for a series of groups. This allows you to visualize if the relationship is constant across those groups, well at least graphically. 
+
+```{r}
+ggplot(data = client_data, mapping = aes(x = AGE, y = MONTHLY_INCOME, color = SEX))+
+  geom_point()+
+  facet_wrap(~SEX)+
+  ggtitle(label = "Relationship between Age and Monthly Income", subtitle = "All clients")+
+  xlab(label = "Age")+
+  ylab(label="Monthly Income")
+```
+
+
+##Plotting relationships with some line fits
+`ggplot` allows you to make some very nice line-fit plots for scatter plots. While the math behind these lines is not what we are talking about, they do produce a nice graphical summary of the relationships.
+
+```{r}
+ggplot(data=client_data,mapping= aes(x = AGE, y = MONTHLY_INCOME))+
+  geom_point()+
+  geom_smooth( method = "lm")+
+  ggtitle(label = "Relationship between Age and Monthly Income", subtitle = "Estimates-linear fit")+
+  xlab(label = "Age")+
+  ylab(label="Monthly Income")
+
+ggplot(data = client_data)+
+  geom_point(mapping= aes(x = AGE, y = MONTHLY_INCOME))+
+  geom_smooth(mapping= aes(x = AGE, y = MONTHLY_INCOME) , method = "loess")+
+  ggtitle(label = "Relationship between Age and Monthly Income", subtitle = "Estimates")+
+  xlab(label = "Age")+
+  ylab(label="Monthly Income")
+```
+
+Another example, this time of a  bad linear plot!
+
+```{r}
+ggplot(data=prb,mapping= aes(x=TFR, y=PercPopLT15))+
+  geom_point()+
+  geom_smooth( method = "lm")+
+  ggtitle(label = "Relationship between Total Fertility and Percent under age 15", subtitle = "2008 Estimates-linear fit")+
+  xlab(label = "Percent under age 15")+
+  ylab(label="IMR")
+```
+
+So instead, us a nonlinear fit, a la a loess regression:
+
+```{r}
+ggplot(data=prb, mapping= aes(x=TFR, y=PercPopLT15))+
+  geom_point()+
+  geom_smooth( method = "loess")+
+  ggtitle(label = "Relationship between Total Fertility and Percent under age 15", subtitle = "2008 Estimates- loess fit")+
+  xlab(label = "Percent under age 15")+
+  ylab(label="IMR")
+```
+
+
+##Really Real data example
+Now let's open a 'really real' data file. This is a sample from the 2015 1-year [American Community Survey](https://www.census.gov/programs-surveys/acs/) microdata, meaning that each row in these data is a person who responded to the survey in 2015. I get these, and you should too from the [Minnesota Population Center](https://pop.umn.edu) IPUMS data. The [IPUMS](https://usa.ipums.org/usa/) stands for "Integrated Public Use Microdata Series", and consists of individual person responses to decennial census returns going back to 1850, and the American Community Survey data from 2001 to the present. 
+
+I'm using data from the US, but there is an [IPUMS International](https://international.ipums.org/international/) data series too, which has data from 85 countries and over 300 censuses. 
+
+I've done an extract (do example in class) and stored the data in a R data (.Rdata) format on [my github data site](https://github.com/coreysparks/r_courses). The file we are using is called [census.Rdata](https://github.com/coreysparks/r_courses/blob/master/census_data.Rdata?raw=true). This extract is small by demographic data standards and is only about 300,000 people. 
+
+There is also a codebook that describes the data and all the response levels for each variable in the data. They are also on my github data page, and called [Codebook_census_data](https://github.com/coreysparks/r_courses/blob/master/Codebook_census_data.pdf). 
+
+I can read it from my github repository directly by using the `load()` function combined with the `url()` function, to tell R that the file is on the web. If the file were, say, in my documents folder, I could likewise load the data from disk.
+
+
+```{r load data}
+
+```
+
+
+Notice in the code above, I did two three different filters in a single `filter()` statement and two recodes in a single `mutate()` statement, this is totally legal, and in general you can do several operations within a single verb statement. Otherwise I would have to do:
+
+```{r recodecensus2, echo=TRUE}
+library(dplyr)
+census%>%
+  filter(age>18)%>%
+  filter(statefip==48)%>%
+  filter(labforce==2)%>%
+  mutate(newwage= ifelse(incwage%in%c(999998,999999), NA, incwage))%>%
+  mutate(newsex=ifelse(sex==1, "male", "female" ))%>%
+  group_by(newsex)%>%
+  summarise(med_income= median(newwage, na.rm=T))
+```
+
+So we get to the same place. It's up to you which way  you do it, always go with the route that you understand better and that is more readable and explicable to someone else. 
+
+I always say that in R, there's **always** more than one way to do anything!
+
+We could also see how incomes are different in San Antonio (variable met2013==41700) compared to Dallas (variable met2013==19100).
+
+```{r census5, echo=TRUE}
+census%>%
+  filter(labforce==2, met2013%in%c(41700, 19100), age>18) %>%
+  mutate(newwage= ifelse(incwage%in%c(999998,999999), NA, incwage),
+         sexrecode=ifelse(sex==1, "male", "female"),
+         city=ifelse(met2013==41700, "San Antonio", "Dallas")) %>%
+  group_by(sexrecode, city)%>%
+  summarise(med_income=median(newwage, na.rm=T), n=n())
+```
+
+So, we see that men in Dallas make about `$4000` more than men in San Antonio, and women in Dallas make about `$7000` more than women in San Antonio
+
+
+### Other cool really real examples
+
+##Categorical data analysis
+
+
+
+##Comparing two means
+
+##Comparing several means (one-way ANOVA)
+
+##Linear regression
+
+##Factorial ANOVA
+
+##Bayesian statistics
+
+#Other Resources
+###Miktek
+To build pdf's you'll need a version of Latex installed, [Miktek](https://miktex.org/download) is a good option
+
+###R-markdown cheat sheets
+Rstudio keeps a variety of [cheat sheets](https://www.rstudio.com/resources/cheatsheets/) for various topics, they can be helpful in a pinch
+
+
+###UCLA Statistical computing help
+[This page](http://www.ats.ucla.edu/stat/) has lots of examples of using R for various types of analysis.
+
+
+###R on Shamu
+The UTSA [High performance computing group](https://www.utsa.edu/oit/AboutUs/RCSG/HPC.html) maintains a computational cluster named Shamu, and R is installed on it. You can [contact them](mailto:RCSG@utsa.edu) for assistance.  We are also working on starting a R user group for the UTSA community.
